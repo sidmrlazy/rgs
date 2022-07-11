@@ -1,0 +1,137 @@
+.homePageTitle {
+  font-size: 90px !important;
+}
+.emphword {
+  flex: 1;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.emph {
+  flex: 1;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.heading-about p {
+  text-align: justify !important;
+  padding: 15px;
+}
+
+.new-block {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100px;
+}
+
+.admission-form {
+  background-color: #f0f0f0 !important;
+  border-radius: 12px;
+}
+
+.admission-icon svg {
+  width: 20px;
+  height: auto;
+}
+
+.admission-form h3 {
+  color: #79d4d1 !important;
+}
+
+.admission-title {
+  color: #000 !important;
+}
+
+.admission-dropdown option {
+  background-color: #bababa;
+  color: #000;
+}
+
+.video {
+  height: 50% !important;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: relative;
+  right: 0;
+  bottom: -10px;
+  max-width: 100%;
+  max-height: 1%;
+  margin-bottom: -50px;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 20%;
+  padding: 20px;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+
+.text-style p {
+  margin-top: -3px;
+}
+
+.new-inner-box {
+  border: 0.5px solid #acacac;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+
+.new-inner-box h3 {
+  font-size: 20px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.innerbox-career {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 250px;
+  border: 0.2px solid #ededed;
+  padding: 30px;
+}
+
+@media (max-width: 991px) {
+  .homePageTitle {
+    font-size: 40px !important;
+  }
+  .innerbox-career {
+    height: auto;
+    padding: 10;
+    margin: 0;
+  }
+  .innerbox-career h3 {
+    font-size: 20px;
+  }
+  .innerbox-career img {
+    width: 20px;
+    height: 20px;
+  }
+  .nav-custom #nav-new {
+    visibility: hidden;
+  }
+}
