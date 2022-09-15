@@ -40,8 +40,10 @@
                         </div>
                         <!-- Social Box -->
                         <ul class="social-box">
-                            <li class="facebook"><a href="#" class="icon icon-facebook"></a></li>
-                            <li class="instagram"><a href="#" class="icon icon-instagram"></a></li>
+                            <li class="facebook"><a href="https://www.facebook.com/RGSCollegeOfPharmacy" target="_blank"
+                                    class="icon icon-facebook"></a></li>
+                            <li class="instagram"><a href="https://instagram.com/rgscp?igshid=YmMyMTA2M2Y="
+                                    target="_blank" class="icon icon-instagram"></a></li>
                             <!-- <li class="twitter"><a href="#" class="icon icon-twitter"></a></li>
 							<li class="linkedin"><a href="#" class="icon icon-linkedin"></a></li> -->
 
@@ -56,69 +58,6 @@
 </div>
 <!-- END sidebar widget item -->
 
-<!-- sidebar cart item -->
-<div class="xs-sidebar-group cart-group">
-    <div class="xs-overlay xs-bg-black"></div>
-    <div class="xs-sidebar-widget">
-        <div class="sidebar-widget-container">
-            <div class="widget-heading media">
-                <div class="media-body">
-                    <a href="#" class="close-side-widget">
-                        <span class="icon icon-cross"></span>
-                    </a>
-                </div>
-            </div>
-            <div class="xs-empty-content">
-
-                <!-- Cart Product -->
-                <div class="cart-product">
-                    <div class="inner">
-                        <div class="cross-icon"><span class="icon icon-cross"></span></div>
-                        <div class="image"><img src="images/resource/treatment-one.jpg" alt="" /></div>
-                        <h3><a href="shop-single.html">Treatment One</a></h3>
-                        <div class="quantity-text">Quantity 1</div>
-                        <div class="price">$39.00</div>
-                    </div>
-                </div>
-                <!-- Cart Product -->
-                <div class="cart-product">
-                    <div class="inner">
-                        <div class="cross-icon"><span class="icon icon-cross"></span></div>
-                        <div class="image"><img src="images/resource/treatment-two.jpg" alt="" /></div>
-                        <h3><a href="shop-single.html">Treatment Two</a></h3>
-                        <div class="quantity-text">Quantity 1</div>
-                        <div class="price">$69.00</div>
-                    </div>
-                </div>
-                <!-- Cart Product -->
-                <div class="cart-product">
-                    <div class="inner">
-                        <div class="cross-icon"><span class="icon icon-cross"></span></div>
-                        <div class="image"><img src="images/resource/treatment-three.jpg" alt="" /></div>
-                        <h3><a href="shop-single.html">Treatment Three</a></h3>
-                        <div class="quantity-text">Quantity 1</div>
-                        <div class="price">$99.00</div>
-                    </div>
-                </div>
-                <p class="xs-btn-wraper">
-                    <a class="btn btn-style-three" href="#">Return To Shop</a>
-                </p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END sidebar cart item -->
-
-<!-- xs modal -->
-<div class="zoom-anim-dialog mfp-hide modal-searchPanel" id="modal-popup-2">
-    <div class="xs-search-panel">
-        <form action="#" method="POST" class="xs-search-group">
-            <input type="search" class="form-control" name="search" id="search" placeholder="Search">
-            <button type="submit" class="search-button"><i class="icon icon-search"></i></button>
-        </form>
-    </div>
-</div><!-- End xs modal -->
-<!-- end language switcher strart -->
 
 <!--Scroll to top-->
 <script src="js/jquery.js"></script>
