@@ -19,7 +19,7 @@
         </div>
 
         <!-- Slide Item -->
-        <div class="slide-item" style="background-image: url(images/gallery/selected/3.png);">
+        <div class="slide-item" style="background-image: url(images/campus/gal-1.png);">
             <div class="container">
 
                 <!-- Content Column -->

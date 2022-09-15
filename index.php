@@ -4,13 +4,6 @@
 ?>
 <!-- Navigation & Header End -->
 
-<!-- Maintenance Start -->
-<?php //include 'includes/maintenance.php';
-?>
-<?php //include 'includes/footer-maintenance.php';
-?>
-<!-- Maintenance End -->
-
 
 <!-- Main Section Start -->
 <?php include 'includes/HomePage/BannerSection.php';

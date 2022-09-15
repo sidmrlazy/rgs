@@ -58,7 +58,7 @@
             <div class="project-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box">
                     <div class="image">
-                        <img src="images/gallery/selected/3.png" alt="" />
+                        <img src="images/campus/3-campus.jpg" alt="" />
                         <!-- Overlay Box -->
                         <div class="overlay-box">
                             <div class="overlay-inner">

@@ -44,7 +44,7 @@
             <div class="offer-block col-lg-4 col-md-6 col-sm-12">
                 <div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="image">
-                        <a href="#"><img src="images/gallery/selected/3.png" alt="" /></a>
+                        <a href="#"><img src="images/campus/gal-4.png" alt="" /></a>
                         <div class="overlay-box">
                             <h3><a href="#">Spacious Classrooms</a></h3>
                         </div>
