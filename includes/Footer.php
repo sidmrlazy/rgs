@@ -90,8 +90,10 @@
                 <div class="pull-right">
                     <ul class="social-box">
                         <!-- <li class="messanger"><a href="#"><span class="icon flaticon-messenger"></span> medizco.center</a></li> -->
-                        <li class="facebook"><a href="#" class="icon icon-facebook"></a></li>
-                        <li class="instagram"><a href="#" class="icon icon-instagram"></a></li>
+                        <li class="facebook"><a target="_blank" href="https://www.facebook.com/RGSCollegeOfPharmacy"
+                                class="icon icon-facebook"></a></li>
+                        <li class="instagram"><a target="_blank" href="https://instagram.com/rgscp?igshid=YmMyMTA2M2Y="
+                                class="icon icon-instagram"></a></li>
                         <!-- <li class="linkedin"><a href="#" class="icon icon-linkedin"></a></li>
 						<li class="twitter"><a href="#" class="icon icon-twitter"></a></li>
 						<li class="youtube"><a href="#" class="icon icon-youtube"></a></li> -->
