@@ -18,8 +18,8 @@
                         About us
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Who we are</a></li>
-                        <li><a class="dropdown-item" href="#">Infrastructure</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#who-we-are">Who we are</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#infrastructure">Infrastructure</a></li>
                         <li><a class="dropdown-item" href="#">Directors</a></li>
                         <li><a class="dropdown-item" href="#">Faculty</a></li>
                     </ul>

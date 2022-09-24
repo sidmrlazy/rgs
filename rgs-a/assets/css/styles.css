@@ -54,6 +54,9 @@ input::-webkit-inner-spin-button {
   width: 100%;
   top: 0;
 }
+.carousel-empty-div {
+  height: 400px !important;
+}
 .banner-prev-icon {
   content: url("../icons/arrow-back-circle.svg");
   width: 30px;
@@ -241,6 +244,81 @@ input::-webkit-inner-spin-button {
   color: #fff;
 }
 
+/* ======== WHO WE ARE SECTION ======== */
+.section-container {
+  background-image: url("../images/usable/feature-img-4.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100% !important;
+  height: 350px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.section-container-heading {
+  margin: 0 !important;
+  font-size: 50px;
+  font-weight: bold;
+  color: #2c4281 !important;
+}
+.section-container-caption {
+  margin: 0 !important;
+}
+.custom-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 30px 50px 30px;
+}
+.box-left {
+  background-color: #2c4281 !important;
+  padding: 30px;
+}
+.box-left h2 {
+  color: #fff !important;
+}
+.box-left p {
+  color: #fff !important;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 200 !important;
+}
+.box-right {
+  background-color: #0095eb !important;
+  padding: 30px;
+}
+.box-right h2 {
+  color: #fff !important;
+}
+.box-right p {
+  color: #fff !important;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 200 !important;
+}
+
+/* ======== INFRASTRUCTURE SECTION ======== */
+.infra-section-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #e7e7e7e7;
+}
+.infrastructure-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 30px;
+}
+.infra-feature-img-container {
+  max-width: 350px;
+  max-height: auto;
+}
+.infra-feature-img-container img {
+  width: 100% !important;
+  height: auto;
+}
+
 /* ======== FOOTER SECTION ======== */
 .web-footer {
   width: 100%;
@@ -315,32 +393,37 @@ input::-webkit-inner-spin-button {
   /* ======== HOMEPAGE CAROUSEL ======== */
   .carousel-banner-section {
     flex-direction: column;
-    padding: 20px;
+    padding: 0px;
   }
   #carousel-video {
     max-width: 100% !important;
+    z-index: -999;
   }
   .carousel-content {
-    position: absolute;
+    position: unset !important;
     width: 100%;
-    top: 0;
+    margin-left: 0 !important;
   }
   .banner-prev-icon {
-    margin-top: 70px;
+    margin-top: 90px;
   }
   .banner-next-icon {
-    margin-top: 70px;
+    margin-top: 90px;
+  }
+  .carousel-indicators {
+    display: none !important;
   }
   .carousel-banner-inner-section {
     padding: 20px !important;
-    margin-left: 120px;
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
   }
   .carousel-banner-inner-section h1 {
     margin: 0 !important;
     font-weight: 700;
     font-size: 30px !important;
     color: #2c4281;
-    margin-top: 100px !important;
+    margin-top: 20px !important;
   }
   .carousel-banner-inner-section h2 {
     margin: 0 !important;
@@ -353,10 +436,89 @@ input::-webkit-inner-spin-button {
     font-size: 14px;
     color: #2c4281;
   }
-  .carousel-banner-lottie {
-    width: 50px !important;
-    height: 50px !important;
+  .carousel-empty-div {
+    display: none !important;
   }
+  /* ======== HOMEPAGE ADMISSION ENQUIRY SECTION ======== */
+  .homepage-admission-section {
+    display: flex;
+    flex-direction: column !important;
+    margin-top: 0px !important;
+  }
+  .homepage-admission-section-content {
+    margin-left: 0px !important;
+    width: 100%;
+    margin-bottom: 40px !important;
+  }
+  .responsive-card {
+    padding: 20px !important;
+  }
+
+  /* ======== HOMEPAGE CAMPUS GALLERY SECTION ======== */
+  .campus-gallery-section {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .campus-gallery-heading-section {
+    margin-top: 0px;
+    margin-bottom: 20px !important;
+  }
+  .campus-gallery-heading-section h2 {
+    margin: 0;
+    color: #2c4281;
+    font-weight: 800;
+  }
+  .campus-gallery-heading-section p {
+    margin: 0;
+    color: #2c4281;
+    text-align: center !important;
+  }
+
+  /* ======== FEATURE SECTION ======== */
+  .homepage-card-grid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .homepage-feature-card {
+    max-width: 100% !important;
+    max-height: 400px;
+    width: 100% !important;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 20px !important;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
+  }
+
+  /* ======== HOMEPAGE DIRECTOR BRIEF SECTION ======== */
+  .homepage-director-brief {
+    display: flex;
+    flex-direction: column !important;
+  }
+  .homepage-director-brief-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column !important;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    max-width: 100%;
+  }
+  .homepage-director-brief-left img {
+    width: 100% !important;
+    height: auto;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
   /* ======== FOOTER SECTION ======== */
   .web-footer {
     width: 100%;
@@ -367,5 +529,55 @@ input::-webkit-inner-spin-button {
   }
   .web-footer-menu {
     padding: 0;
+  }
+  /* ======== WHO WE ARE SECTION ======== */
+  .section-container-heading {
+    font-size: 40px !important;
+    text-align: center;
+  }
+  .section-container-caption {
+    text-align: center;
+  }
+  .custom-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column !important;
+    margin: 50px 15px 50px 15px;
+  }
+  .box-left {
+    background-color: #2c4281 !important;
+    padding: 30px;
+  }
+  .box-left h2 {
+    color: #fff !important;
+  }
+  .box-left p {
+    color: #fff !important;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 200 !important;
+  }
+  .box-right {
+    background-color: #0095eb !important;
+    padding: 30px;
+  }
+  .box-right h2 {
+    color: #fff !important;
+  }
+  .box-right p {
+    color: #fff !important;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 200 !important;
+  }
+
+  /* ======== INFRASTRUCTURE SECTION ======== */
+  .infrastructure-row {
+    flex-direction: column !important;
+    padding: 20px;
+  }
+  .infra-feature-img-container {
+    margin-bottom: 15px !important;
   }
 }

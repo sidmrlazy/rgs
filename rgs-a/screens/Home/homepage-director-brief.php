@@ -9,7 +9,7 @@
                 commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
                 fugiat
                 nulla pariatur.</p>
-            <a href="#" class="homepage-director-know-more-btn">Know More</a>
+            <a href="#" class="homepage-director-know-more-btn">Read More</a>
         </div>
     </div>
     <div class="col-md-6">
