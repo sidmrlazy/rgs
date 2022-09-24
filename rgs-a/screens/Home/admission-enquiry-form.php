@@ -1,6 +1,6 @@
 <div class="container mt-5 mb-3">
     <div class="homepage-admission-section">
-        <form class="card responsive-card p-5 col-md-6 order-1">
+        <form class="card responsive-card p-5 col-md-6 order-1 order-lg-0">
             <h2 class="heading">Admission Enquiry</h2>
             <p class="mb-3">Enter your details below for us to connect with you</p>
             <div class="form-floating mb-3">
@@ -30,7 +30,7 @@
 
             <button class="btn btn-outline-primary p-2">Submit</button>
         </form>
-        <div class="col-md-6 homepage-admission-section-content order-0">
+        <div class="col-md-6 homepage-admission-section-content order-0 order-lg-1">
             <h2>Lorem Ipsum is simply dummy text</h2>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
                 industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
