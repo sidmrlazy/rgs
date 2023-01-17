@@ -7,7 +7,7 @@
                 Dolor placeat iste cum, eos excepturi rerum, provident hic repellendus reprehenderit illo voluptatem,
                 sit
                 ducimus? Nobis neque adipisci soluta optio?</p>
-            <a href="" class="home-connect-btn">Know More</a>
+            <a href="who-we-are.php" class="home-connect-btn">Know More</a>
         </div>
         <div class="col-md-6">
             <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_fjv8qxqn.json" background="transparent"

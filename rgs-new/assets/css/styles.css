@@ -54,6 +54,7 @@
 }
 .nav-link {
   color: #e0e0e0;
+  font-size: 20px;
 }
 .nav-link:hover {
   color: #138dd5;
@@ -329,6 +330,44 @@
   border-radius: 10px;
 }
 
+/* ========= WHO WE ARE ========= */
+.about-section-banner {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.about-section-banner h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 400;
+  color: #1c3746 !important;
+  margin-bottom: 15px;
+}
+.about-section-banner p {
+  margin: 0;
+  font-size: 36px;
+  color: #000;
+  line-height: 40px;
+  font-weight: 500;
+}
+.about-section-banner a {
+  margin: 0;
+  font-size: 20px;
+  color: #777;
+  font-weight: 500;
+  text-decoration: none;
+}
+.about-section-txt p {
+  font-size: 20px;
+  color: #777;
+  margin: 0;
+  line-height: initial;
+  text-align: justify;
+  font-weight: initial;
+}
+
 /* ========= FOOTER ========= */
 .footer {
   display: flex;
@@ -575,6 +614,33 @@
     color: #fff;
     border-radius: 10px;
     text-align: center;
+  }
+
+  /* ========= WHO WE ARE ========= */
+  .about-section-banner {
+    flex-direction: column;
+  }
+  .about-section-banner h1 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 400;
+    color: #138dd5;
+  }
+  .about-section-banner p {
+    margin: 0;
+    font-size: 30px;
+    color: #000;
+    line-height: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .about-section-txt p {
+    font-size: 16px;
+    color: #777;
+    margin: 0;
+    line-height: initial;
+    text-align: left;
+    font-weight: initial;
   }
 
   /* ========= FOOTER ========= */
