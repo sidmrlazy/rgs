@@ -11,12 +11,12 @@
                 and be provided with superior infrastructure and campus life in their own State.</p>
 
             <p>Being in our initial years, we are providing comprehensive Pharma Courses including Bachelors of Pharmacy
-                (B.Pharma) and Diploma in Pharmacy (D. Pharma)</p>
-
-            <p>At RGS College of Pharmacy, we are fortunate enough to be under guidance of acclaimed and prolific
-                academicians and professionals who impart knowledge to our future researchers and pharmacists. Our
+                (B.Pharma) and Diploma in Pharmacy (D. Pharma). Our
                 Principal, Faculty Members and teachers come with rich and reputed experiences and are dedicated to
                 educating, guiding and moulding our students.</p>
+
+            <!-- <p>At RGS College of Pharmacy, we are fortunate enough to be under guidance of acclaimed and prolific
+                academicians and professionals who impart knowledge to our future researchers and pharmacists. </p> -->
 
             <p>Our on-Campus, quality and well equipped Labs, Library, Practical Rooms enable our Students to learn and
                 master their concepts and become better and credible additions to the Pharma Sector. #GoPhar with us!
