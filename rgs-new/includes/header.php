@@ -20,6 +20,9 @@
     <!-- =========== STYLESHEET =========== -->
     <link rel="stylesheet" href="assets/css/styles.css">
 
+    <!-- =========== JQUERY =========== -->
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
     <!-- =========== LOTTIEFILES =========== -->
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
