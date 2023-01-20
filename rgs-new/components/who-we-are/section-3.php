@@ -50,3 +50,23 @@
         </div>
     </div>
 </div>
+
+<div class="container">
+    <div class="section-3-founder">
+        <div class="founder-img-container col-md-6">
+            <img src="assets/svg/sawan.svg" alt="">
+        </div>
+        <div class="col-md-6 founder-details">
+            <h3>Dr. Bharat Mishra</h3>
+            <h4><span>Director</span>, RGS College of Pharmacy</h4>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde beatae cum vitae ipsa, reiciendis assumenda
+                quia et perferendis illo officia. Enim quaerat, commodi quasi ab eius adipisci nostrum possimus officia
+                rem cum, nesciunt voluptatem assumenda dicta totam veniam nisi esse natus ipsam pariatur hic quos porro
+                blanditiis fuga beatae. Magni?</p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid neque odio amet ratione, fuga ipsa est
+                voluptatum nobis veritatis aspernatur voluptate nihil, saepe hic.</p>
+        </div>
+    </div>
+</div>
