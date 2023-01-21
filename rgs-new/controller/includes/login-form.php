@@ -4,7 +4,7 @@
         <?php
         session_start();
         if (isset($_SESSION["user_name"])) {
-            header("location:dashboard.php");
+            header("location:dashboard-controller.php");
         }
         include('includes/db.php');
         if (isset($_POST['submit'])) {
@@ -22,6 +22,7 @@
                     $password = $row['user_password'];
                     $user_type = $row['user_type'];
                     $user_name = $row['user_name'];
+                    $user_id = $row['user_id'];
                 }
             }
 
@@ -31,6 +32,7 @@
                 $_SESSION['loggedin'] = true;
                 $_SESSION['user_name'] = $user_name;
                 $_SESSION['user_type'] = $user_type;
+                $_SESSION['user_id'] = $user_id;
                 header("location: dashboard-controller.php");
             } else { ?>
         <div class="alert alert-danger mt-3 mb-3 w-100" role="alert">

@@ -54,6 +54,7 @@
         <li><a href="#">IQAC</a></li>
         <li><a href="#">Videos</a></li>
         <li><a href="#">Events</a></li>
+        <li><a href="#">Downloads</a></li>
     </ul>
 
     <ul class="col-md-3 footer-nav">

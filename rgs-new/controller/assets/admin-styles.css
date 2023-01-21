@@ -1,0 +1,107 @@
+/* ============ ADMIN NAVBAR ============ */
+.navbar {
+  position: absolute;
+  top: 0;
+}
+.navbar-brand {
+  max-width: 8%;
+  visibility: hidden;
+}
+.navbar-brand img {
+  width: 100%;
+}
+/* ============ ADMIN SIDE NAVBAR ============ */
+.side-navbar {
+  background-color: #1c3746;
+  position: absolute;
+  height: 100% !important;
+  top: 0;
+  width: 200px;
+}
+.side-navbar-brand {
+  max-width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #777;
+}
+.side-navbar-brand img {
+  width: 80%;
+}
+.side-navbar-menu {
+  margin-top: 20px;
+}
+.side-navbar-menu li {
+  list-style-type: none;
+}
+.side-navbar-link {
+  margin-bottom: 20px !important;
+}
+.side-navbar-link a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+}
+.side-navbar-link ion-icon {
+  color: #fff;
+  font-size: 15px !important;
+  margin-right: 5px;
+}
+
+/* ============ ADMIN DASHBOARD ============ */
+.admin-dashboard {
+  position: absolute;
+  left: 50;
+  right: 0;
+  margin-top: 100px !important;
+  padding-left: 30px;
+}
+.admin-dashboard-button-grid {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100% !important;
+  justify-content: flex-start;
+}
+.admin-dashboard-button {
+  border: 1px solid #1c3746;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 9px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 5px;
+}
+.admin-dashboard-button:hover {
+  -webkit-box-shadow: 5px 5px 20px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 5px 5px 20px -9px rgba(0, 0, 0, 0.75);
+  box-shadow: 5px 5px 20px -9px rgba(0, 0, 0, 0.75);
+  transition: 0.3s all ease-in-out;
+}
+.admin-dashboard-button ion-icon {
+  color: #1c3746 !important;
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 18px;
+}
+.admin-dashboard-button a {
+  text-decoration: none;
+  color: #1c3746;
+  margin: 0;
+}
+.form-header {
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0;
+  color: #1c3746;
+}
+.form-header-details {
+  margin: 0;
+  color: #777;
+}
+.event-form-container {
+  border: 1px solid #e7e7e7e7;
+  padding: 20px;
+}

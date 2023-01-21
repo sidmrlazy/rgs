@@ -8,4 +8,5 @@ include('includes/header.php') ?>
 <?php include('components/home/features-tab.php') ?>
 <?php include('components/home/why-rgs.php') ?>
 <?php include('components/home/homepage-connect.php') ?>
+<?php include('components/home/events-brief.php') ?>
 <?php include('includes/footer.php') ?>

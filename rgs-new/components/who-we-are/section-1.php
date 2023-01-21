@@ -1,6 +1,6 @@
 <div class="container about-section-banner">
     <div class="col-md-6">
-        <h1><a href="index.php">Home </a> | Who we are</h1>
+        <!-- <h1><a href="index.php">Home </a> | Who we are</h1> -->
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus, nostrum similique?</p>
     </div>
     <div class="col-md-6 about-section-txt">

@@ -13,6 +13,9 @@
     <!-- =========== Favicon =========== -->
     <link rel="shortcut icon" href="../assets/logo/favicon.svg" type="image/x-icon">
 
+    <!-- =========== StyleSheet =========== -->
+    <link rel="stylesheet" href="assets/admin-styles.css">
+
     <title>RGS Admin</title>
 </head>
 
