@@ -488,8 +488,8 @@
   justify-content: center;
 }
 .faculty-img-container {
-  width: 250px !important;
-  height: 250px !important;
+  width: 200px !important;
+  height: 200px !important;
   margin: 5px;
 }
 #faculty-1 {
@@ -602,7 +602,7 @@
 }
 #faculty-1:hover {
   border-radius: 10px;
-  background-image: url("../webp/faculty-1-txt.webp");
+  background-image: url("../webp/faculty-1-txt-new.webp");
   background-repeat: no-repeat;
   background-size: contain;
   transition: 0.5s all ease-in-out;
