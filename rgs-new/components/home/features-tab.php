@@ -1,6 +1,6 @@
 <div class="container home-feature-section">
     <div class="feature-grid">
-        <a href="#" class="feature-tab" id="color-1">
+        <a href="index.php#history" class="feature-tab" id="color-1">
             <ion-icon name="hourglass-outline"></ion-icon>
             <h2>History</h2>
             <p>This History of Pharmacy Education in India</p>

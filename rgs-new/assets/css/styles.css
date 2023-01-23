@@ -11,8 +11,11 @@
   align-items: center;
   background-color: #fff;
 }
-.top-nav img {
-  width: 20% !important;
+.top-nav-brand {
+  max-width: 100%;
+}
+.top-nav-brand img {
+  width: 50% !important;
   height: auto;
 }
 .top-nav-row {
@@ -230,6 +233,27 @@
 }
 .feature-tab ion-icon {
   font-size: 30px;
+}
+
+/* ========= HISTORY SECTION ========= */
+.history-section-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.history-section-img {
+  max-width: 100%;
+}
+.history-section-img img {
+  width: 100%;
+}
+.history-section-txt {
+  max-width: 100%;
+  padding: 20px;
+}
+.history-section-txt p {
+  font-size: 18px;
+  text-align: justify;
 }
 
 /* ========= WHY RGS ========= */
@@ -1027,6 +1051,14 @@
 
   .feature-tab ion-icon {
     font-size: 30px !important;
+  }
+
+  /* ========= HISTORY SECTION ========= */
+  .history-section-row {
+    flex-direction: column;
+  }
+  .history-section-txt {
+    padding: 10px;
   }
 
   /* ========= WHY RGS ========= */
