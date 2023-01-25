@@ -60,13 +60,30 @@
             <h3>Dr. Bharat Mishra</h3>
             <h4><span>Director</span>, RGS College of Pharmacy</h4>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde beatae cum vitae ipsa, reiciendis assumenda
-                quia et perferendis illo officia. Enim quaerat, commodi quasi ab eius adipisci nostrum possimus officia
-                rem cum, nesciunt voluptatem assumenda dicta totam veniam nisi esse natus ipsam pariatur hic quos porro
-                blanditiis fuga beatae. Magni?</p>
+            <p>A mentor, motivator, research guide, who is always been active in preparing his students for future
+                challenges by imparting an understanding of research and scientific writing, responsibility bearing
+                capacities, Improvement in communication skills, Interpersonal skills, Presentation skills, Leadership
+                qualities, Personality inputs, Soft skills. He is experienced in internal institutional audit, process
+                development & improvement, system development, progression & transformation, Quality assessment and
+                improvement, maximum utilization of resources, value addition, root cause analysis, research mindset,
+                and overall institutional development.</p>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid neque odio amet ratione, fuga ipsa est
-                voluptatum nobis veritatis aspernatur voluptate nihil, saepe hic.</p>
+            <p>He builds on his 16 years of solid teaching foundation to make a
+                lasting impact on students' lives by establishing himself as a positive & proactive leader and earned
+                respect among faculty, administration, students & parents. Guided over 50 research scholars. Published
+                more than 60 quality research papers and 24, Conference Proceedings in international and national
+                journals, 03 books & 03 International Book Chapters in CRC Press: Taylor & Francis Group, USA & Nova
+                Science Publishers, Inc.-USA.</p>
+
+            <p>Contributing to the scientific publication (More than 25) as editorial
+                board member and reviewer for the peer-reviewed/ Indexed International & National Journals including the
+                Editor-in-chief for the International Journal of Healthcare and Biological Science. Honoured for being,
+                The Invited Resource Person (32 times) at various national and international conferences, Seminars,
+                Webinars and academic duties at various universities. </p>
+
+            <p>He has received grants from government bodies as
+                SERB, DBT & KSCSTE for various events. He is guiding PhD scholars from Kerala University of Health
+                Sciences, Amity School of pharmacy, and Amity Business School, Amity University, Lucknow.</p>
         </div>
     </div>
 </div>
