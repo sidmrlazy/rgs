@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="courses-section-1">
-        <a href="#" class="col-md-6 courses-section-1-txt" id="txt-left">
+        <a href="courses.php#bpharm" class="col-md-6 courses-section-1-txt" id="txt-left">
             <div class="courses-section-1-img">
                 <img src="assets/webp/bpharm-icon.webp" alt="">
             </div>

@@ -888,11 +888,21 @@
 }
 .courses-section-1-txt#txt-left {
   background-color: #138dd5;
+  color: #1c3746;
+}
+.courses-section-1-txt#txt-left:hover {
+  background-color: #138dd5;
   color: #fff;
+  transition: 0.3s all ease-in;
 }
 .courses-section-1-txt#txt-right {
   background-color: #1c3746;
+  color: #138dd5;
+}
+.courses-section-1-txt#txt-right:hover {
+  background-color: #1c3746;
   color: #fff;
+  transition: 0.3s all ease-in;
 }
 .courses-section-1-img {
   max-width: 200px;
@@ -900,6 +910,31 @@
 .courses-section-1-img img {
   width: 200px;
   margin-top: -100px;
+}
+
+/* ========= COURSES SECTION 2 ========= */
+.courses-section-2-navs {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.courses-section-nav-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.courses-section-2-nav-link {
+  font-size: 18px;
+}
+.nav-pills {
+  border: 1px solid #138dd5;
+  padding: 10px;
+  border-radius: 20px;
+  color: #1c3746;
+  font-weight: 500;
+  text-align: center;
 }
 
 /* ========= FOOTER ========= */
