@@ -116,3 +116,44 @@
         </div>
     </div>
 </div>
+
+<div class="w-100 section-3-heading">
+    <h2>D.PHARM <span>SYLLABUS</span></h2>
+    <div class="section-3-line"></div>
+</div>
+
+<div id="dpharm" class="container">
+    <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#year-1"
+                type="button" role="tab" aria-selected="true">1st Year</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#year-2"
+                type="button" role="tab" aria-selected="false">2nd Year</button>
+        </li>
+    </ul>
+
+    <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="year-1" role="tabpanel" tabindex="0">
+            <div class="courses-section-nav-row p-5">
+                <p class="nav-pills">Pharmaceutics-I</p>
+                <p class="nav-pills">Pharmaceutical Chemistry-I</p>
+                <p class="nav-pills">Pharmacognosy</p>
+                <p class="nav-pills">Biochemistry & Clinical Pathology</p>
+                <p class="nav-pills">Human Anatomy & Physiology</p>
+                <p class="nav-pills">Health Education & community pharmacy</p>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="year-2" role="tabpanel" tabindex="0">
+            <div class="courses-section-nav-row p-5">
+                <p class="nav-pills">Pharmaceutics-II</p>
+                <p class="nav-pills">Pharmaceutical Chemistry-II</p>
+                <p class="nav-pills">Pharmacology & Toxicology</p>
+                <p class="nav-pills">Pharmaceutical Jurisprudence</p>
+                <p class="nav-pills">Drug store and Business Management</p>
+                <p class="nav-pills">Hospital & Clinical Pharmacy</p>
+            </div>
+        </div>
+    </div>
+</div>

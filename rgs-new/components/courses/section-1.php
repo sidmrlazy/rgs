@@ -15,7 +15,7 @@
             </p>
 
         </a>
-        <a href="#" class="col-md-6 courses-section-1-txt" id="txt-right">
+        <a href="courses.php#dpharm" class="col-md-6 courses-section-1-txt" id="txt-right">
             <div class="courses-section-1-img">
                 <img src="assets/webp/dpharm-icon.webp" alt="">
             </div>
