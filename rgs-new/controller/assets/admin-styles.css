@@ -2,6 +2,7 @@
 .navbar {
   position: absolute;
   top: 0;
+  width: 100%;
 }
 .navbar-brand {
   max-width: 8%;
@@ -9,6 +10,9 @@
 }
 .navbar-brand img {
   width: 100%;
+}
+.nav-item-mobile {
+  display: none;
 }
 /* ============ ADMIN SIDE NAVBAR ============ */
 .side-navbar {
@@ -104,4 +108,31 @@
 .event-form-container {
   border: 1px solid #e7e7e7e7;
   padding: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  .side-navbar {
+    display: none;
+  }
+  .navbar {
+    position: initial;
+    top: 0;
+    width: 100%;
+  }
+  .navbar-brand {
+    max-width: 30%;
+    visibility: visible;
+  }
+  .nav-item-mobile {
+    display: initial;
+  }
+  .nav-link {
+    font-size: 18px;
+  }
+  /* ============ ADMIN DASHBOARD ============ */
+  .admin-dashboard {
+    position: initial;
+    margin-top: 20px !important;
+    padding: 20px;
+  }
 }
