@@ -2,6 +2,12 @@
     <h2>OUR <span>FACULTY</span></h2>
     <div class="section-3-line"></div>
 </div>
+
+<!-- <div>
+    <div>
+        <img src="assets/webp/faculty-1-img.webp" alt="">
+    </div>
+</div> -->
 <div class="team-grid ">
     <div class="faculty-img-container" id="faculty-1"></div>
     <div class="faculty-img-container" id="faculty-2"></div>

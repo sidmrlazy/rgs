@@ -56,6 +56,10 @@
   border-top: 2px solid #138dd5;
   border-bottom: 2px solid #138dd5;
 }
+.active {
+  color: #fff !important;
+  font-weight: bold;
+}
 .nav-link {
   color: #e0e0e0;
   font-size: 16px;
@@ -523,7 +527,7 @@
 }
 .section-2-txt p {
   font-size: 18px;
-  line-height: 30px;
+  line-height: 20px;
   text-align: justify;
 }
 .section-3-heading {
@@ -617,6 +621,9 @@
   font-size: 16px;
   text-align: right;
 }
+
+/* ========= WHO WE ARE SECTION 4 ========= */
+
 .team-grid {
   display: flex;
   flex-wrap: wrap;
