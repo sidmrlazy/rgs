@@ -24,7 +24,7 @@
     </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
     <div class="section-3-founder">
         <div class="col-md-6 founder-details-right order-1 order-xl-0">
             <h3>Ms. Anukriti Shukla</h3>
@@ -49,9 +49,9 @@
             <img src="assets/svg/anukriti.svg" alt="">
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="container">
+<!-- <div class="container">
     <div class="section-3-founder">
         <div class="founder-img-container col-md-6">
             <img src="assets/svg/sawan.svg" alt="">
@@ -86,4 +86,4 @@
                 Sciences, Amity School of pharmacy, and Amity Business School, Amity University, Lucknow.</p>
         </div>
     </div>
-</div>
+</div> -->
