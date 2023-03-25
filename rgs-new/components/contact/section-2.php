@@ -27,7 +27,7 @@
         $result = mysqli_query($connection, $query);
 
         if ($result) {
-            $to = "sid.asthana0290@gmail.com";
+            $to = "rgscp23@gmail.com";
             $subject = "Website Visitor";
 
             $message = "
