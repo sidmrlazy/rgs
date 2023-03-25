@@ -3,8 +3,6 @@
         <h2>Website <span>Visitors</span></h2>
         <p>Check out the people who have filled the contact page on the website</p>
     </div>
-
-
     <div class="table-responsive dashboard-table">
         <table class="table table-bordered">
             <thead>
@@ -46,7 +44,6 @@
                             } else if ($contact_reason == '5') {
                                 echo 'Other';
                             }
-
                             ?></td>
                     <td><?php echo $contact_details ?></td>
                 </tr>
@@ -61,22 +58,6 @@
         <h2>Registration <span>Forms</span></h2>
         <p>Check out the people who have filled the registration form on the website</p>
     </div>
-    <?php
-    require('includes/db.php');
-    $fetch = "SELECT * FROM `registration_form`";
-    $fetch_result = mysqli_query($connection, $fetch);
-
-    while ($row = mysqli_fetch_assoc($fetch_result)) {
-        $registration_name = $row['registration_name'];
-        $registration_contact = $row['registration_contact'];
-        $registration_email = $row['registration_email'];
-        $registration_course = $row['registration_course'];
-        $registration_10th_percentage = $row['registration_10th_percentage'];
-        $registration_12th_percentage = $row['registration_12th_percentage'];
-        $registration_date = $row['registration_date'];
-
-    ?>
-
     <div class="table-responsive dashboard-table">
         <table class="table table-bordered">
             <thead>
@@ -91,6 +72,21 @@
                 </tr>
             </thead>
             <tbody>
+                <?php
+                require('includes/db.php');
+                $fetch = "SELECT * FROM `registration_form`";
+                $fetch_result = mysqli_query($connection, $fetch);
+
+                while ($row = mysqli_fetch_assoc($fetch_result)) {
+                    $registration_name = $row['registration_name'];
+                    $registration_contact = $row['registration_contact'];
+                    $registration_email = $row['registration_email'];
+                    $registration_course = $row['registration_course'];
+                    $registration_10th_percentage = $row['registration_10th_percentage'];
+                    $registration_12th_percentage = $row['registration_12th_percentage'];
+                    $registration_date = $row['registration_date'];
+
+                ?>
                 <tr>
                     <td scope="row"><?php echo $registration_name ?></td>
                     <td><?php echo $registration_contact ?></td>
@@ -106,9 +102,8 @@
                     <td><?php echo $registration_12th_percentage ?></td>
                     <td><?php echo date('d-m-Y', strtotime($registration_date)) ?></td>
                 </tr>
+                <?php } ?>
             </tbody>
         </table>
     </div>
-    <?php } ?>
-
 </div>
