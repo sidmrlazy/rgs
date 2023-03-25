@@ -7,7 +7,8 @@
     <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
         <li class="nav-item" role="presentation">
             <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#semester-1"
-                type="button" role="tab" aria-selected="true">Semester I</button>
+                type="button" role="tab" aria-selected="true">Semester
+                I</button>
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#semester-2"
@@ -126,7 +127,8 @@
     <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
         <li class="nav-item" role="presentation">
             <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#year-1"
-                type="button" role="tab" aria-selected="true">1st Year</button>
+                type="button" role="tab" aria-selected="true">1st
+                Year</button>
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#year-2"

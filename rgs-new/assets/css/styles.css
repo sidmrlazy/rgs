@@ -63,8 +63,8 @@ input::-webkit-inner-spin-button {
   border-bottom: 2px solid #138dd5;
 }
 .active {
-  color: #fff !important;
-  font-weight: bold;
+  color: #000 !important;
+  font-weight: 500;
 }
 .nav-link {
   color: #e0e0e0;
@@ -940,6 +940,7 @@ input::-webkit-inner-spin-button {
 }
 .courses-section-2-nav-link {
   font-size: 18px;
+  color: #1c3746;
 }
 .nav-pills {
   border: 1px solid #138dd5;
