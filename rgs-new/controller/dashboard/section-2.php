@@ -3,19 +3,7 @@
         <h2>Website <span>Visitors</span></h2>
         <p>Check out the people who have filled the contact page on the website</p>
     </div>
-    <?php
-    require('includes/db.php');
-    $fetch = "SELECT * FROM `contact_form`";
-    $fetch_result = mysqli_query($connection, $fetch);
 
-    while ($row = mysqli_fetch_assoc($fetch_result)) {
-        $contact_name = $row['contact_name'];
-        $contact_number = $row['contact_number'];
-        $contact_email = $row['contact_email'];
-        $contact_reason = $row['contact_reason'];
-        $contact_details = $row['contact_details'];
-
-    ?>
 
     <div class="table-responsive dashboard-table">
         <table class="table table-bordered">
@@ -29,6 +17,19 @@
                 </tr>
             </thead>
             <tbody>
+                <?php
+                require('includes/db.php');
+                $fetch = "SELECT * FROM `contact_form`";
+                $fetch_result = mysqli_query($connection, $fetch);
+
+                while ($row = mysqli_fetch_assoc($fetch_result)) {
+                    $contact_name = $row['contact_name'];
+                    $contact_number = $row['contact_number'];
+                    $contact_email = $row['contact_email'];
+                    $contact_reason = $row['contact_reason'];
+                    $contact_details = $row['contact_details'];
+
+                ?>
                 <tr>
                     <td scope="row"><?php echo $contact_name ?></td>
                     <td><?php echo $contact_number ?></td>
@@ -49,10 +50,11 @@
                             ?></td>
                     <td><?php echo $contact_details ?></td>
                 </tr>
+                <?php } ?>
             </tbody>
         </table>
     </div>
-    <?php } ?>
+
 
 
     <div class="dashboard-heading-section">
