@@ -78,7 +78,7 @@
   padding: 20px;
   background-color: #fff;
   border-radius: 5px;
-  margin: 10px;
+  width: 95%;
 }
 .dashboard-table th {
   font-size: 12px;
