@@ -50,20 +50,20 @@
                     <a class="nav-link" href="courses.php">Courses</a>
                     <?php } ?>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <?php if ($title === "RGS Edge | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="rgs-edge.php">RGS Edge</a>
                     <?php } else { ?>
                     <a class="nav-link" href="rgs-edge.php">RGS Edge</a>
                     <?php } ?>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                     <?php if ($title === "Resources | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="resources.php">Resources</a>
                     <?php } else { ?>
                     <a class="nav-link" href="resources.php">Resources</a>
                     <?php } ?>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <?php if ($title === "Admissions | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="admissions.php">Admissions</a>
@@ -71,17 +71,15 @@
                     <a class="nav-link" href="admissions.php">Admissions</a>
                     <?php } ?>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <?php if ($title === "Departments | RGS College of Pharmacy" || $title === "Calendar | RGS College of Pharmacy") { ?>
-                    <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Academics
-                    </a>
+                        <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Academics
+                        </a>
                     <?php } else { ?>
-                    <a class="nav-link  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Academics
-                    </a>
+                        <a class="nav-link  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Academics
+                        </a>
                     <?php } ?>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="departments.php">Departments</a></li>
@@ -89,43 +87,43 @@
                         <hr>
                         <li><a class="dropdown-item" href="#">Downloads</a></li>
                     </ul>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                     <?php if ($title == "Research & Development | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="research.php">Research & Development</a>
                     <?php } else { ?>
                     <a class="nav-link" href="research.php">Research & Development</a>
                     <?php } ?>
-                </li>
+                </li> -->
 
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <?php if ($title === "IQAC | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="iqac.php">IQAC</a>
                     <?php } else { ?>
                     <a class="nav-link" href="iqac.php">IQAC</a>
                     <?php } ?>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                     <?php if ($title === "Brochures | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="brochures.php">Brochures</a>
                     <?php } else { ?>
                     <a class="nav-link" href="brochures.php">Brochures</a>
                     <?php } ?>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                     <?php if ($title === "Videos | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="videos.php">Videos</a>
                     <?php } else { ?>
                     <a class="nav-link" href="videos.php">Videos</a>
                     <?php } ?>
-                </li>
-                <li class="nav-item">
+                </li> -->
+                <!-- <li class="nav-item">
                     <?php if ($title === "Events | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="events.php">Events</a>
                     <?php } else { ?>
                     <a class="nav-link" href="events.php">Events</a>
                     <?php } ?>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <?php if ($title === "Contact Us | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="contact.php">Contact</a>
