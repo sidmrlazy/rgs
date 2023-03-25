@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="dashboard-heading-section">
-        <h2>Website <span>Visitors</span></h2>
+        <h2>Website <span>Visitors</span> (Contact Page)</h2>
         <p>Check out the people who have filled the contact page on the website</p>
     </div>
     <div class="table-responsive dashboard-table">
