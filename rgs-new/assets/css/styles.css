@@ -3,6 +3,12 @@
   background: #f0c424;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 /* ========= TOP NAVBAR ========= */
 .top-nav {
   width: 100%;
@@ -944,6 +950,33 @@
   text-align: center;
 }
 
+/* ========= ADMISSIONS REGISTRATION FORM ========= */
+.registration-form-heading {
+  margin-top: 50px;
+}
+.registration-form-heading h1 {
+  font-weight: bold;
+  margin: 0;
+  color: #138dd5 !important;
+  font-size: 28px;
+}
+.registration-form-heading p {
+  margin: 0;
+  color: #000 !important;
+}
+.registration-form {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 1px solid #e7e7e7e7;
+  border-radius: 10px;
+  padding: 40px;
+}
+.registration-form-input-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* ========= FOOTER ========= */
 .footer {
   display: flex;
@@ -1306,6 +1339,17 @@
   /* ========= COURSES SECTION 1 ========= */
   .courses-section-1-txt#txt-right {
     margin-top: 120px;
+  }
+
+  /* ========= ADMISSIONS REGISTRATION FORM ========= */
+  .registration-form {
+    padding: 20px;
+  }
+  .registration-form-input-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
   }
 
   /* ========= FOOTER ========= */
