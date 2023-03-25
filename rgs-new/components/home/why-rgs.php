@@ -11,8 +11,9 @@
                     <ion-icon class="why-rgs-icon" name="bar-chart-outline"></ion-icon>
                 </div>
                 <div>
-                    <h4>Lorem ipsum dolor sit.</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit non architecto aliquam.</p>
+                    <h4>On campus Facilities</h4>
+                    <p>Well-equipped Labs, Library, Practical Rooms enable our students to master their concepts and
+                        become credible additions to the Pharma Sector. </p>
                 </div>
             </div>
 
@@ -21,8 +22,10 @@
                     <ion-icon class="why-rgs-icon" name="medal-outline"></ion-icon>
                 </div>
                 <div>
-                    <h4>Lorem ipsum dolor sit.</h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit non architecto aliquam.</p>
+                    <h4>Our Values</h4>
+                    <p>Academics, Discipline, Dedication & Determination are the pillars of strength at RGS. We focus on
+                        inculcating essential values like constructive competition, honesty & dedication towards
+                        profession in our students.</p>
                 </div>
             </div>
         </div>
