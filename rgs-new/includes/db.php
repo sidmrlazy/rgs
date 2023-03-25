@@ -1,15 +1,15 @@
 <?php
 // Production
-$servername = "localhost";
-$username = "u976956619_rgscp";
-$database = "u976956619_rgscp";
-$password = "Sid12asthana";
+// $servername = "localhost";
+// $username = "u976956619_rgscp";
+// $database = "u976956619_rgscp";
+// $password = "Sid12asthana";
 
 // Development
-// $servername = "localhost";
-// $username = "root";
-// $database = "rgscp";
-// $password = "";
+$servername = "localhost";
+$username = "root";
+$database = "rgscp";
+$password = "";
 
 // Validate Connection
 $connection = new mysqli($servername, $username, $password, $database);
