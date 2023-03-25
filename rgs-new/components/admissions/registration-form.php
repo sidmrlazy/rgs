@@ -81,8 +81,8 @@
                 <label for="exampleFormControlInput1" class="form-label">Percentage scored in Class Xth</label>
                 <div class="input-group mb-3">
                     <span class="input-group-text" id="basic-addon1">%</span>
-                    <input name="registration_10th_percentage" type="number" class="form-control"
-                        placeholder="percentage" aria-label="Username" aria-describedby="basic-addon1">
+                    <input name="registration_10th_percentage" type="text" class="form-control" placeholder="percentage"
+                        aria-label="Username" aria-describedby="basic-addon1">
                 </div>
             </div>
 
@@ -90,8 +90,8 @@
                 <label for="exampleFormControlInput1" class="form-label">Percentage scored in Class XIIth</label>
                 <div class="input-group mb-3">
                     <span class="input-group-text" id="basic-addon1">%</span>
-                    <input name="registration_12th_percentage" type="number" class="form-control"
-                        placeholder="percentage" aria-label="Username" aria-describedby="basic-addon1">
+                    <input name="registration_12th_percentage" type="text" class="form-control" placeholder="percentage"
+                        aria-label="Username" aria-describedby="basic-addon1">
                 </div>
             </div>
         </div>

@@ -1,66 +1,13 @@
 /* ============ ADMIN NAVBAR ============ */
-.navbar {
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
 .navbar-brand {
-  max-width: 8%;
-  visibility: hidden;
+  max-width: 100%;
 }
 .navbar-brand img {
-  width: 100%;
-}
-.nav-item-mobile {
-  display: none;
-}
-/* ============ ADMIN SIDE NAVBAR ============ */
-.side-navbar {
-  background-color: #1c3746;
-  position: absolute;
-  height: 100% !important;
-  top: 0;
-  width: 200px;
-}
-.side-navbar-brand {
-  max-width: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 8px;
-  border-bottom: 1px solid #777;
-}
-.side-navbar-brand img {
-  width: 80%;
-}
-.side-navbar-menu {
-  margin-top: 20px;
-}
-.side-navbar-menu li {
-  list-style-type: none;
-}
-.side-navbar-link {
-  margin-bottom: 20px !important;
-}
-.side-navbar-link a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 15px;
-}
-.side-navbar-link ion-icon {
-  color: #fff;
-  font-size: 15px !important;
-  margin-right: 5px;
+  width: 12%;
+  height: auto;
 }
 
 /* ============ ADMIN DASHBOARD ============ */
-.admin-dashboard {
-  position: absolute;
-  left: 50;
-  right: 0;
-  margin-top: 100px !important;
-  padding-left: 30px;
-}
 .admin-dashboard-button-grid {
   display: flex;
   flex-wrap: wrap;
@@ -109,16 +56,36 @@
   border: 1px solid #e7e7e7e7;
   padding: 20px;
 }
-
+.dashboard-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  margin-top: 50px;
+  padding: 20px;
+}
+.dashboard-heading-section h2 {
+  font-weight: bold;
+  margin: 0;
+  color: #1c3746;
+  font-size: 20px;
+}
+.dashboard-heading-section span {
+  color: #138dd5 !important;
+}
+.dashboard-table {
+  border: 1px solid #e7e7e7;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 10px;
+}
+.dashboard-table th {
+  font-size: 12px;
+  color: #fff;
+  background-color: #138dd5;
+}
 @media only screen and (max-width: 768px) {
-  .side-navbar {
-    display: none;
-  }
-  .navbar {
-    position: initial;
-    top: 0;
-    width: 100%;
-  }
   .navbar-brand {
     max-width: 30%;
     visibility: visible;

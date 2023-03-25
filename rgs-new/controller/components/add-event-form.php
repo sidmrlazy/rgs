@@ -1,5 +1,4 @@
-<div class="container mt-5 admin-dashboard">
-
+<div class="container-fluid mt-5 admin-dashboard">
     <h5 class="form-header">Add Event</h5>
     <p class="form-header-details">Events added from this section will be visible on the main websites 'Events' Section
     </p>
