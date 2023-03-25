@@ -7,7 +7,8 @@
             </div>
             <div>
                 <p class="footer-label">Address</p>
-                <p class="footer-txt">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam debitis quia non?
+                <p class="footer-txt">RGS COLLEGE OF PHARMACY, Near Itaunja Toll plaza,
+                    Village - Karaundi, Itaunja, Lucknow, 226203
                 </p>
             </div>
         </div>
@@ -18,7 +19,7 @@
             </div>
             <div>
                 <p class="footer-label">Contact</p>
-                <p class="footer-txt">+91 9876543210 | +91 7894561230
+                <p class="footer-txt">+91 93058 89899
                 </p>
             </div>
         </div>
@@ -29,7 +30,7 @@
             </div>
             <div>
                 <p class="footer-label">Email</p>
-                <p class="footer-txt">abc@xyz.com
+                <p class="footer-txt">rgscp23@gmail.com
                 </p>
             </div>
         </div>
@@ -40,13 +41,14 @@
         <li><a href="#">Home</a></li>
         <li><a href="who-we-are.php">Who we are</a></li>
         <li><a href="#">Courses</a></li>
-        <li><a href="#">Research & Development</a></li>
-        <li><a href="#">Academics</a></li>
-        <li><a href="#">Brochures</a></li>
+        <!-- <li><a href="#">Research & Development</a></li> -->
+        <!-- <li><a href="#">Academics</a></li> -->
+        <!-- <li><a href="#">Brochures</a></li> -->
         <li><a href="#">Admissions</a></li>
+        <li><a href="#">Contact</a></li>
     </ul>
 
-    <ul class="col-md-3 footer-nav">
+    <!-- <ul class="col-md-3 footer-nav">
         <li><a href="#">RGS Edge</a></li>
         <li><a href="#">Resources</a></li>
         <li><a href="#">Departments</a></li>
@@ -55,13 +57,13 @@
         <li><a href="#">Videos</a></li>
         <li><a href="#">Events</a></li>
         <li><a href="#">Downloads</a></li>
-    </ul>
+    </ul> -->
 
     <ul class="col-md-3 footer-nav">
         <li><a href="#">Privacy Policy</a></li>
         <li><a href="#">Disclaimer</a></li>
         <li><a href="#">Terms & Conditions</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <!-- <li><a href="#">Contact Us</a></li> -->
     </ul>
 </div>
 
