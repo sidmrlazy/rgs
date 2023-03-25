@@ -1,5 +1,5 @@
 <div class="dashboard-row">
-    <div class="col-md-6 ">
+    <div class="col-md-5">
         <div class="dashboard-heading-section">
             <h2>Website <span>Visitors</span></h2>
             <p>Check out the people who have filled the contact page on the website</p>
@@ -57,7 +57,7 @@
 
     </div>
 
-    <div class="col-md-6 ">
+    <div class="col-md-5 ">
         <div class="dashboard-heading-section">
             <h2>Registration <span>Forms</span></h2>
             <p>Check out the people who have filled the registration form on the website</p>
