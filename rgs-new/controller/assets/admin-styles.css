@@ -42,6 +42,8 @@
   color: #1c3746;
   margin: 0;
 }
+
+/* ============ ADD EVENT FORM ============ */
 .form-header {
   font-weight: 500;
   font-size: 18px;
@@ -56,13 +58,17 @@
   border: 1px solid #e7e7e7e7;
   padding: 20px;
 }
+
+/* ============ ADMIN TABLES ============ */
 .dashboard-row {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  width: 100%;
+  max-width: 100%;
   margin-top: 50px;
-  padding: 20px;
+}
+.dashboard-heading-section {
+  margin-top: 50px;
 }
 .dashboard-heading-section h2 {
   font-weight: bold;
@@ -85,20 +91,25 @@
   background-color: #138dd5;
 }
 @media only screen and (max-width: 768px) {
+  /* ============ ADMIN NAVBAR ============ */
   .navbar-brand {
-    max-width: 30%;
-    visibility: visible;
+    max-width: 50%;
   }
-  .nav-item-mobile {
-    display: initial;
+  .navbar-brand img {
+    width: 70%;
   }
   .nav-link {
     font-size: 18px;
   }
   /* ============ ADMIN DASHBOARD ============ */
-  .admin-dashboard {
-    position: initial;
-    margin-top: 20px !important;
-    padding: 20px;
+
+  /* ============ ADMIN TABLES ============ */
+  .dashboard-row {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 100%;
+    margin-top: 50px;
+    flex-direction: column;
   }
 }
