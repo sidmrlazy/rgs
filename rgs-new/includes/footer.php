@@ -63,6 +63,7 @@
         <li><a href="#">Privacy Policy</a></li>
         <li><a href="#">Disclaimer</a></li>
         <li><a href="#">Terms & Conditions</a></li>
+        <li><a href="controller/index.php">Admin</a></li>
         <!-- <li><a href="#">Contact Us</a></li> -->
     </ul>
 </div>
