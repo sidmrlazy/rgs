@@ -47,20 +47,35 @@
 <td>$contact_name</td>
 <td>$contact_number</td>
 <td>$contact_email</td>
-<td>$contact_reason</td>
-</tr>
-</table>
 
-<p style='margin-top: 20px; margin-bottom: 20px; font-weight: 'bold';'>For more details about this visitor please visit your Admin Panel</p>
-</body>
-</html>
-";
+<td><?php 
+if($contact_reason = '1') {
+    echo 'Career';
+} else if ($contact_reason = '2') {
+    echo 'Courses';
+} else if ($contact_reason = '3') {
+    echo 'Admission Process';
+} else if ($contact_reason = '4') {
+    echo 'Fee Structure';
+} else if ($contact_reason = '5') {
+    echo 'Other Reasons';
+}
+?>$contact_reason</td>
+    </tr>
+    </table>
 
-            // Always set content-type when sending HTML email
-            $headers = "MIME-Version: 1.0" . "\r\n";
-            $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+    <p style='margin-top: 20px; margin-bottom: 20px; font-weight: ' bold';'>For more details about this visitor please
+        visit your Admin Panel</p>
+    </body>
 
-            mail($to, $subject, $message, $headers);
+    </html>
+    ";
+
+    // Always set content-type when sending HTML email
+    $headers = "MIME-Version: 1.0" . "\r\n";
+    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+    mail($to, $subject, $message, $headers);
 
     ?>
     <div class="alert alert-success mt-3 mb-3" role="alert">
