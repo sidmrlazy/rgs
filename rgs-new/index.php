@@ -2,7 +2,8 @@
 $title = "Top College of Pharmacy in Lucknow | RGS College of Pharmacy";
 include('includes/header.php') ?>
 <?php include('includes/navbar.php') ?>
-<?php include('components/home/pop-up-modal.php') ?>
+<?php // include('components/home/pop-up-modal.php') 
+?>
 <?php include('components/home/carousel.php') ?>
 <?php include('components/home/college-affiliations.php') ?>
 <?php include('components/home/home-who-we-are-brief.php') ?>
