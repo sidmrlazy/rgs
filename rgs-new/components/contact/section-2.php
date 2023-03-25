@@ -1,7 +1,6 @@
 <div class="mt-5 container contact-section">
     <h2>Connect with us</h2>
     <p>Fill out the form and we'll get back to you</p>
-
     <?php
     require('includes/db.php');
     if (isset($_POST['contact'])) {
@@ -28,7 +27,7 @@
         $result = mysqli_query($connection, $query);
 
         if ($result) {
-            $to = "connectonlyn@onlynus.com";
+            $to = "sid.asthana0290@gmail.com";
             $subject = "Website Visitor";
 
             $message = "
