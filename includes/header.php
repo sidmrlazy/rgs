@@ -2,48 +2,32 @@
 <html lang="en">
 
 <head>
-    <!-- Meta -->
     <meta charset="UTF-8">
-    <meta name="description" content="RGS Collge of Pharmacy">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- =========== SEO =========== -->
     <meta name="keywords" content="">
-    <meta name="author" content="">
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
 
-    <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@300;500;700&display=swap"
-        rel="stylesheet">
+    <!-- =========== BOOTSTRAP v5.2 =========== -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/Logo/rgscplogo.png" type="image/x-icon">
-    <link rel="icon" href="assets/images/Logo/rgscplogo.png" type="image/x-icon">
+    <!-- =========== FAVICON =========== -->
+    <link rel="shortcut icon" href="assets/logo/favicon.svg" type="image/x-icon">
 
-    <!-- Website Name -->
-    <title>RGS College of Pharmacy</title>
+    <!-- =========== STYLESHEET =========== -->
+    <link rel="stylesheet" href="assets/css/styles.css">
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <!-- ========== JQUERY ========== -->
+    <script src="https://code.jquery.com/jquery-3.6.3.js"
+        integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
 
-    <!-- Stylesheets -->
-    <!-- <link href="css/bootstrap.css" rel="stylesheet"> -->
-    <!-- <link href="css/jquery-ui.css" rel="stylesheet"> -->
-    <link href="css/icomoon-icons.css" rel="stylesheet">
-    <!-- <link href="css/animate.css" rel="stylesheet"> -->
-    <link href="css/flaticon.css" rel="stylesheet">
-    <link href="css/owl.css" rel="stylesheet">
-    <link href="css/animation.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <!-- <link href="css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="css/jquery.mCustomScrollbar.min.css" rel="stylesheet"> -->
+    <!-- =========== LOTTIEFILES =========== -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-    <!-- ============ CSS ============ -->
-    <link href="css/menu.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
-
-    <!-- ============ BOOTSTRAP ============ -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <title><?php echo $title ?></title>
 </head>
+
+<body>

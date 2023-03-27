@@ -1,51 +1,16 @@
-<!-- Navigation & Header Start -->
-<?php include 'includes/header.php'; ?>
-<?php include 'includes/navigation/navigation.php';
+<?php
+$title = "Top College of Pharmacy in Lucknow | RGS College of Pharmacy";
+include('includes/header.php') ?>
+<?php include('includes/navbar.php') ?>
+<?php // include('components/home/pop-up-modal.php') 
 ?>
-<!-- Navigation & Header End -->
-
-
-<!-- ====================== Pop Up Form Start ====================== -->
-<script>
-$(document).ready(function() {
-    $("#homepageModal").modal("show");
-});
-</script>
-<div class="modal fade hide" id="homepageModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                ...
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- ====================== Pop Up Form End ====================== -->
-
-<!-- Main Section Start -->
-<?php include 'includes/HomePage/BannerSection.php';
+<?php include('components/home/carousel.php') ?>
+<?php include('components/home/college-affiliations.php') ?>
+<?php include('components/home/home-who-we-are-brief.php') ?>
+<?php include('components/home/features-tab.php') ?>
+<?php include('components/home/why-rgs.php') ?>
+<?php include('components/home/history-of-pharmacy.php') ?>
+<?php include('components/home/homepage-connect.php') ?>
+<?php //include('components/home/events-brief.php') 
 ?>
-<?php include 'includes/HomePage/Featured-Section/Featured-Section.php';
-?>
-<?php include 'includes/HomePage/Gallery-Section/Gallery-Section.php';
-?>
-<?php include 'includes/HomePage/Testimonials/Testimonials.php';
-?>
-<!-- Main Section End -->
-
-<!-- Footer Section Start -->
-<?php include 'includes/Footer.php';
-?>
-<?php include 'includes/Sidebar/Sidebar.php';
-?>
-<!-- Footer Section End -->
+<?php include('includes/footer.php') ?>

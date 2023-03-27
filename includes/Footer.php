@@ -1,127 +1,89 @@
-<!--Main Footer-->
+<div class="footer">
+    <div class="col-md-3">
 
-
-<footer class="main-footer" style="background-image:url(images/background/7.jpg)">
-
-    <div class="container">
-
-        <!--Widgets Section-->
-        <div class="widgets-section">
-            <div class="row">
-
-                <!-- Logo Widget-->
-                <div class="footer-column col-lg-6 col-md-6">
-                    <div class="footer-widget logo-widget">
-                        <div class="logo">
-                            <a href="index"><img src="assets/images/Logo/rgscplogo.png" alt="" /></a>
-                        </div>
-                        <!-- <p class="text">Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary</p> -->
-                        <br>
-                        <ul class="list-style-two">
-                            <li><a href=""><span class="icon  flaticon-map-pin-marked"></span>RGS COLLEGE OF PHARMACY,
-                                    Near Itaunja Toll plaza, <br> Village - Karaundi, Itaunja,
-                                    Lucknow, 226203</a></li>
-                            <li><a href="tel:+91-9305889899"><span class="icon flaticon-phone"></span>+91-9305889899</a>
-                            </li>
-                            <li><a href="mailto:rgscp23@gmail.com"><span
-                                        class="icon flaticon-mail"></span>rgscp23@gmail.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <!-- Links Widget-->
-                <!-- <div class="footer-column col-lg-3 col-md-6">
-					<div class="footer-widget link-widget">
-						<h2>Our Departments</h2>
-						<ul class="footer-list">
-							<li><a href="#">Trauma & intensive care</a></li>
-							<li><a href="#">Aged Care</a></li>
-							<li><a href="#">Community Services</a></li>
-							<li><a href="#">Diagnosis & Investigation</a></li>
-							<li><a href="#">Medical & Surgical</a></li>
-							<li><a href="#">Mental Health</a></li>
-							<li><a href="#">Rehabitation</a></li>
-							<li><a href="#">Specialised Support Service</a></li>
-						</ul>
-					</div>
-				</div> -->
-
-
-
-                <!-- Links Widget-->
-                <div class="footer-column col-lg-3 col-md-3">
-                    <div class="footer-widget times-widget">
-                        <h2>Menu</h2>
-                        <ul class="time-list">
-                            <li><a href="index">Home</a></li>
-                            <li><a href="about">About us</a></li>
-                            <li><a href="courses">Courses</a></li>
-                            <li><a href="campus">Campus</a></li>
-                            <li><a href="admissions">Admissions</a></li>
-                            <li><a href="contact">Contact us</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="footer-column col-lg-12 col-md-12">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d454599.5917524789!2d80.881239!3d27.107188!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb7269c3ac9a7124!2sRGS%20College%20Of%20Pharmacy!5e0!3m2!1sen!2sin!4v1605857405453!5m2!1sen!2sin"
-                        width="100%" height="450" frameborder="0" style="border:1; border-radius: 12px"
-                        allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-                </div>
-
+        <div class="footer-about-details">
+            <div class="footer-icon-container">
+                <ion-icon name="location-outline" class="footer-icon"></ion-icon>
+            </div>
+            <div>
+                <p class="footer-label">Address</p>
+                <p class="footer-txt">RGS COLLEGE OF PHARMACY, Near Itaunja Toll plaza,
+                    Village - Karaundi, Itaunja, Lucknow, 226203
+                </p>
             </div>
         </div>
 
-    </div>
-
-    <!-- Footer Bottom -->
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="clearfix">
-
-                <div class="pull-left">
-                    <!-- Copyright -->
-                    <p class="copyright">&copy; 2020, RGS College of Pharmacy. All Rights Reserved | Design & Developed
-                        by <a href="https://gizmmoalchemy.com/" target="_blank" style="color: #fff; ">GizmmoAlchemy</a>
-                    </p>
-                </div>
-
-                <div class="pull-right">
-                    <ul class="social-box">
-                        <!-- <li class="messanger"><a href="#"><span class="icon flaticon-messenger"></span> medizco.center</a></li> -->
-                        <li class="facebook"><a target="_blank" href="https://www.facebook.com/RGSCollegeOfPharmacy"
-                                class="icon icon-facebook"></a></li>
-                        <li class="instagram"><a target="_blank" href="https://instagram.com/rgscp?igshid=YmMyMTA2M2Y="
-                                class="icon icon-instagram"></a></li>
-                        <!-- <li class="linkedin"><a href="#" class="icon icon-linkedin"></a></li>
-						<li class="twitter"><a href="#" class="icon icon-twitter"></a></li>
-						<li class="youtube"><a href="#" class="icon icon-youtube"></a></li> -->
-                    </ul>
-                </div>
-
+        <div class="footer-about-details">
+            <div class="footer-icon-container">
+                <ion-icon name="phone-portrait-outline" class="footer-icon"></ion-icon>
+            </div>
+            <div>
+                <p class="footer-label">Contact</p>
+                <p class="footer-txt">+91 93058 89899
+                </p>
             </div>
         </div>
+
+        <div class="footer-about-details">
+            <div class="footer-icon-container">
+                <ion-icon name="mail-outline" class="footer-icon"></ion-icon>
+            </div>
+            <div>
+                <p class="footer-label">Email</p>
+                <p class="footer-txt">rgscp23@gmail.com
+                </p>
+            </div>
+        </div>
+
+
     </div>
+    <ul class="col-md-3 footer-nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="who-we-are.php">Who we are</a></li>
+        <li><a href="#">Courses</a></li>
+        <!-- <li><a href="#">Research & Development</a></li> -->
+        <!-- <li><a href="#">Academics</a></li> -->
+        <!-- <li><a href="#">Brochures</a></li> -->
+        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
 
-</footer>
+    <!-- <ul class="col-md-3 footer-nav">
+        <li><a href="#">RGS Edge</a></li>
+        <li><a href="#">Resources</a></li>
+        <li><a href="#">Departments</a></li>
+        <li><a href="#">Calendar</a></li>
+        <li><a href="#">IQAC</a></li>
+        <li><a href="#">Videos</a></li>
+        <li><a href="#">Events</a></li>
+        <li><a href="#">Downloads</a></li>
+    </ul> -->
 
+    <ul class="col-md-3 footer-nav">
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Disclaimer</a></li>
+        <li><a href="#">Terms & Conditions</a></li>
+        <li><a href="controller/index.php">Admin</a></li>
+        <!-- <li><a href="#">Contact Us</a></li> -->
+    </ul>
 </div>
 
-<!-- Custom -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous">
-</script>
-
-<script src="js/popper.min.js"></script>
-
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<!-- Lottie Files -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<!-- =========== DEVELOPER FOOTER =========== -->
+<div class="developer-footer">
+    <p>&#169; RGS College of Pharmacy | All Rights Reserved | Designed & Developed by <span><a
+                href="https://www.onlynus.com" target="_blank" rel="noopener noreferrer">Onlyn</a></span></p>
+</div>
 
 <!-- =========== BOOTSTRAP =========== -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
 </script>
-<!--End pagewrapper-->
+
+<!-- =========== IONICONS =========== -->
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+</body>
+
+</html>
