@@ -22,6 +22,9 @@
 
             <p>He foresees making RGSCP a Polytechnic College and Ayurveda University in the next few years and finally
                 operating at a University level.</p>
+
+            <p>In addition to providing quality education, we aim to increase opportunities for the youth and create
+                value for our society</p>
         </div>
     </div>
 </div>
