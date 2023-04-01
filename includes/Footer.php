@@ -1,58 +1,3 @@
-<!-- <div class="footer">
-    <div class="col-md-3">
-        <div class="footer-about-details">
-            <div class="footer-icon-container">
-                <ion-icon name="location-outline" class="footer-icon"></ion-icon>
-            </div>
-            <div>
-                <p class="footer-label">Address</p>
-                <p class="footer-txt">RGS COLLEGE OF PHARMACY, Near Itaunja Toll plaza,
-                    Village - Karaundi, Itaunja, Lucknow, 226203
-                </p>
-            </div>
-        </div>
-
-        <div class="footer-about-details">
-            <div class="footer-icon-container">
-                <ion-icon name="phone-portrait-outline" class="footer-icon"></ion-icon>
-            </div>
-            <div>
-                <p class="footer-label">Contact</p>
-                <p class="footer-txt">+91 93058 89899
-                </p>
-            </div>
-        </div>
-
-        <div class="footer-about-details">
-            <div class="footer-icon-container">
-                <ion-icon name="mail-outline" class="footer-icon"></ion-icon>
-            </div>
-            <div>
-                <p class="footer-label">Email</p>
-                <p class="footer-txt">rgscp23@gmail.com
-                </p>
-            </div>
-        </div>
-    </div>
-    <ul class="col-md-3 footer-nav">
-        <li><a href="#">Home</a></li>
-        <li><a href="who-we-are.php">Who we are</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Admissions</a></li>
-        <li><a href="#">Contact</a></li>
-    </ul>
-
-    <ul class="col-md-3 footer-nav">
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">Disclaimer</a></li>
-        <li><a href="#">Terms & Conditions</a></li>
-        <li><a href="controller/index.php">Admin</a></li>
-    </ul>
-
-    <div class="addthis_inline_follow_toolbox"></div>
-</div> -->
-
-
 <div class="footer">
     <div class="col-md-6 footer-img">
         <img src="assets/logo/white-logo-full.svg" alt="">
@@ -74,6 +19,7 @@
             <li><a href="#">Terms & Conditions</a></li>
             <li><a href="#">Privacy Policy</a></li>
             <li><a href="#">Admin Panel</a></li>
+            <div class="addthis_inline_follow_toolbox"></div>
         </ul>
     </div>
 </div>
