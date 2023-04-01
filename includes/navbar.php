@@ -30,30 +30,39 @@
         <a class="navbar-brand" href="index.php">
             <img src="assets/logo/logo.svg" alt="rgs-college-brand-logo">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                     <?php if ($title === "Top College of Pharmacy in Lucknow | RGS College of Pharmacy") {  ?>
-                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     <?php } else { ?>
-                        <a class="nav-link" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     <?php } ?>
                 </li>
                 <li class="nav-item">
                     <?php if ($title === "Who We Are | RGS College of Pharmacy") { ?>
-                        <a class="nav-link active" href="who-we-are.php">Who we are</a>
+                    <a class="nav-link active" href="who-we-are.php">Who we are</a>
                     <?php } else { ?>
-                        <a class="nav-link" href="who-we-are.php">Who we are</a>
+                    <a class="nav-link" href="who-we-are.php">Who we are</a>
+                    <?php } ?>
+                </li>
+
+                <li class="nav-item">
+                    <?php if ($title === "Admissions | RGS College of Pharmacy") { ?>
+                    <a class="nav-link active" href="admissions.php">Admissions</a>
+                    <?php } else { ?>
+                    <a class="nav-link" href="admissions.php">Admissions</a>
                     <?php } ?>
                 </li>
                 <li class="nav-item">
                     <?php if ($title === "Courses | RGS College of Pharmacy") { ?>
-                        <a class="nav-link active" href="courses.php">Courses</a>
+                    <a class="nav-link active" href="courses.php">Courses</a>
                     <?php } else { ?>
-                        <a class="nav-link" href="courses.php">Courses</a>
+                    <a class="nav-link" href="courses.php">Courses</a>
                     <?php } ?>
                 </li>
                 <!-- <li class="nav-item">
@@ -70,13 +79,7 @@
                     <a class="nav-link" href="resources.php">Resources</a>
                     <?php } ?>
                 </li> -->
-                <li class="nav-item">
-                    <?php if ($title === "Admissions | RGS College of Pharmacy") { ?>
-                        <a class="nav-link active" href="admissions.php">Admissions</a>
-                    <?php } else { ?>
-                        <a class="nav-link" href="admissions.php">Admissions</a>
-                    <?php } ?>
-                </li>
+
                 <!-- <li class="nav-item dropdown">
                     <?php if ($title === "Departments | RGS College of Pharmacy" || $title === "Calendar | RGS College of Pharmacy") { ?>
                         <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -132,9 +135,9 @@
                 </li> -->
                 <li class="nav-item">
                     <?php if ($title === "Contact Us | RGS College of Pharmacy") { ?>
-                        <a class="nav-link active" href="contact.php">Contact</a>
+                    <a class="nav-link active" href="contact.php">Contact</a>
                     <?php } else { ?>
-                        <a class="nav-link" href="contact.php">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                     <?php } ?>
                 </li>
             </ul>

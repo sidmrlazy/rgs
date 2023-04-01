@@ -1,4 +1,42 @@
-<div class="container mt-5">
+<div class="container mt-5 contact-section-2">
+    <div class="col-md-6">
+        <div class="contact-section-lottie">
+            <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_gaplvsns.json" background="transparent"
+                speed="1" loop autoplay></lottie-player>
+        </div>
+        <div class="contact-details-bar">
+            <div class="contact-details-icon">
+                <ion-icon name="location-outline"></ion-icon>
+            </div>
+
+            <div class="contact-details">
+                <h3>ADDRESS</h3>
+                <p>Near Itaunja Toll Plaza, Itaunja, Lucknow, India, Uttar Pradesh</p>
+            </div>
+        </div>
+
+        <div class="contact-details-bar">
+            <div class="contact-details-icon">
+                <ion-icon name="call-outline"></ion-icon>
+            </div>
+
+            <div class="contact-details">
+                <h3>CONTACT</h3>
+                <p>+91 93058 89899</p>
+            </div>
+        </div>
+
+        <div class="contact-details-bar">
+            <div class="contact-details-icon">
+                <ion-icon name="call-outline"></ion-icon>
+            </div>
+
+            <div class="contact-details">
+                <h3>EMAIL</h3>
+                <p>rgscp23@gmail.com</p>
+            </div>
+        </div>
+    </div>
     <div class="col-md-6 contact-section">
         <h2>Connect with us</h2>
         <p>Fill out the form and we'll get back to you</p>
@@ -65,9 +103,9 @@
                 mail($to, $subject, $message, $headers);
 
         ?>
-                <div class="alert alert-success mt-3 mb-3" role="alert">
-                    Thank you for contacting us. We will connect with you shortly!
-                </div>
+        <div class="alert alert-success mt-3 mb-3" role="alert">
+            Thank you for contacting us. We will connect with you shortly!
+        </div>
         <?php
             }
         }
@@ -76,15 +114,18 @@
         <form action="" method="POST" class="contact-form">
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Full Name</label>
-                <input name="contact_name" type="text" class="form-control" id="exampleFormControlInput1" placeholder="Please enter your full name" required>
+                <input name="contact_name" type="text" class="form-control" id="exampleFormControlInput1"
+                    placeholder="Please enter your full name" required>
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Contact Number</label>
-                <input name="contact_number" type="number" class="form-control" id="exampleFormControlInput1" placeholder="+91 XXXXX XXXX" required>
+                <input name="contact_number" type="number" class="form-control" id="exampleFormControlInput1"
+                    placeholder="+91 XXXXX XXXX" required>
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input name="contact_email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="abc@xyz.com">
+                <input name="contact_email" type="email" class="form-control" id="exampleFormControlInput1"
+                    placeholder="abc@xyz.com">
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label">Contacting about?</label>
@@ -99,7 +140,8 @@
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label">How can we help?</label>
-                <textarea name="contact_details" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                <textarea name="contact_details" class="form-control" id="exampleFormControlTextarea1"
+                    rows="5"></textarea>
             </div>
 
             <button type="submit" name="contact" class="btn btn-primary w-100">Submit</button>

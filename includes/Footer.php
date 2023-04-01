@@ -18,7 +18,7 @@
             <li><a href="#">Disclaimer</a></li>
             <li><a href="#">Terms & Conditions</a></li>
             <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Admin Panel</a></li>
+            <li><a href="controller/index.php">Admin Panel</a></li>
             <div class="addthis_inline_follow_toolbox"></div>
         </ul>
     </div>

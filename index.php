@@ -13,4 +13,4 @@ include('includes/header.php') ?>
 <?php include('components/home/homepage-connect.php') ?>
 <?php //include('components/home/events-brief.php') 
 ?>
-<?php include('includes/footer.php') ?>
+<?php include('includes/Footer.php') ?>
