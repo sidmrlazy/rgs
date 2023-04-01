@@ -996,51 +996,49 @@ input::-webkit-inner-spin-button {
 }
 /* ========= FOOTER ========= */
 .footer {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  padding: 40px;
   background: rgb(19, 141, 213);
   background: linear-gradient(
     132deg,
     rgba(19, 141, 213, 1) 10%,
     rgba(26, 80, 111, 1) 90%
   );
-}
-.footer-about-details {
+  padding: 20px;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
+  align-items: center;
+}
+.footer-img {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.footer-img hr {
+  border-color: #fff !important;
+  width: 50%;
+}
+.footer-img img {
+  width: 50%;
+  height: auto;
+}
+.footer-img p {
+  margin: 0;
+  color: #fff;
+}
+.footer-menu {
+  display: flex;
+  justify-content: center;
   align-items: flex-start;
+  flex-direction: column;
+  padding-left: 100px;
+}
+.footer-menu li {
+  list-style: none;
   margin-bottom: 30px;
 }
-.footer-icon-container {
-  margin-right: 10px;
-}
-.footer-icon {
-  font-size: 24px;
-  color: #fff;
-}
-.footer-label {
-  margin: 0 !important;
-  color: #fff;
-  font-weight: 600;
-  font-size: 14px;
-}
-.footer-txt {
-  margin: 0 !important;
-  color: #fff;
-}
-.footer-nav li {
-  list-style: none;
-  margin-bottom: 10px;
-}
-.footer-nav a {
+.footer-menu a {
   text-decoration: none;
   color: #fff;
-}
-.footer-nav a:hover {
-  color: #1c3746;
-  transition: 0.3s all ease-in-out;
 }
 
 /* ========= DEVELOPER FOOTER ========= */
@@ -1371,17 +1369,40 @@ input::-webkit-inner-spin-button {
 
   /* ========= FOOTER ========= */
   .footer {
+    flex-direction: column;
+  }
+  .footer-img {
+    align-items: center;
+  }
+  .footer-img hr {
+    width: 80%;
+  }
+  .footer-img img {
+    width: 80%;
+  }
+  .footer-img p {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+  }
+  .footer-menu {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
-    padding: 40px;
-    background: rgb(19, 141, 213);
-    background: linear-gradient(
-      132deg,
-      rgba(19, 141, 213, 1) 10%,
-      rgba(26, 80, 111, 1) 90%
-    );
+    padding-left: 0;
+    margin-top: 100px;
+  }
+  .footer-menu li {
+    list-style: none;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .footer-menu a {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
   }
 
   /* ========= DEVELOPER FOOTER ========= */

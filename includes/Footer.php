@@ -1,6 +1,5 @@
-<div class="footer">
+<!-- <div class="footer">
     <div class="col-md-3">
-
         <div class="footer-about-details">
             <div class="footer-icon-container">
                 <ion-icon name="location-outline" class="footer-icon"></ion-icon>
@@ -34,43 +33,54 @@
                 </p>
             </div>
         </div>
-
-
     </div>
     <ul class="col-md-3 footer-nav">
         <li><a href="#">Home</a></li>
         <li><a href="who-we-are.php">Who we are</a></li>
         <li><a href="#">Courses</a></li>
-        <!-- <li><a href="#">Research & Development</a></li> -->
-        <!-- <li><a href="#">Academics</a></li> -->
-        <!-- <li><a href="#">Brochures</a></li> -->
         <li><a href="#">Admissions</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
-
-    <!-- <ul class="col-md-3 footer-nav">
-        <li><a href="#">RGS Edge</a></li>
-        <li><a href="#">Resources</a></li>
-        <li><a href="#">Departments</a></li>
-        <li><a href="#">Calendar</a></li>
-        <li><a href="#">IQAC</a></li>
-        <li><a href="#">Videos</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Downloads</a></li>
-    </ul> -->
 
     <ul class="col-md-3 footer-nav">
         <li><a href="#">Privacy Policy</a></li>
         <li><a href="#">Disclaimer</a></li>
         <li><a href="#">Terms & Conditions</a></li>
         <li><a href="controller/index.php">Admin</a></li>
-        <!-- <li><a href="#">Contact Us</a></li> -->
     </ul>
+
+    <div class="addthis_inline_follow_toolbox"></div>
+</div> -->
+
+
+<div class="footer">
+    <div class="col-md-6 footer-img">
+        <img src="assets/logo/white-logo-full.svg" alt="">
+
+        <hr>
+
+        <p>Affiliated with Abdul Kalam Technical University (AKTU)</p>
+        <p>Approved by Pharmacy Council of India (PCI)</p>
+        <p>Approved by Board of Technical Education (BTE)</p>
+
+        <hr>
+
+        <p>&#169; All Rights Reserved with RGS College of Pharmacy </p>
+    </div>
+
+    <div class="col-md-6 footer-menu">
+        <ul>
+            <li><a href="#">Disclaimer</a></li>
+            <li><a href="#">Terms & Conditions</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Admin Panel</a></li>
+        </ul>
+    </div>
 </div>
 
 <!-- =========== DEVELOPER FOOTER =========== -->
 <div class="developer-footer">
-    <p>&#169; RGS College of Pharmacy | All Rights Reserved | Designed & Developed by <span><a href="https://www.onlynus.com" target="_blank">Onlyn</a></span></p>
+    <p>Designed & Developed by <span><a href="https://www.onlynus.com" target="_blank">Onlyn</a></span></p>
 </div>
 
 <!-- =========== BOOTSTRAP =========== -->
@@ -81,6 +91,9 @@
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
+
+<!-- =========== ADDTHIS =========== -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6427c03c3106ef46"></script>
 
 </body>
 
