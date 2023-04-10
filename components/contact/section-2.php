@@ -66,8 +66,8 @@
             $result = mysqli_query($connection, $query);
 
             if ($result) {
-                $to = "rgscp23@gmail.com";
-                $subject = "Website Visitor";
+                $to = "rgscp23@gmail.com, connectonlyn@onlynus.com";
+                $subject = "Website Visitor | RGS College of Pharmacy";
 
                 $message = "
 <html>
