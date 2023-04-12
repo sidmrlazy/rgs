@@ -458,6 +458,77 @@ input::-webkit-inner-spin-button {
   font-weight: 300 !important;
 }
 
+/* ========= WHO WE ARE SECTION 4 ========= */
+.who-we-are-section-4-container {
+  background-color: #e7e7e7;
+  padding: 40px;
+  margin-top: 100px;
+}
+.who-we-are-section-4-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.who-we-are-section-4-banner {
+  background: rgb(43, 215, 205);
+  background: linear-gradient(
+    132deg,
+    rgba(43, 215, 205, 1) 10%,
+    rgba(82, 31, 255, 1) 90%
+  );
+  width: 350px;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  flex-direction: column;
+  border-radius: 5px;
+}
+.who-we-are-section-4-banner p {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 30px;
+  letter-spacing: 15px;
+}
+.who-we-are-section-4-banner h4 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 85px;
+  line-height: 70px;
+}
+.who-we-are-section-4-faculty-card-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.who-we-are-section-4-faculty-card {
+  max-width: 250px;
+  max-height: 350px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
+.who-we-are-section-4-faculty-card img {
+  width: 100%;
+  height: auto;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.who-we-are-section-4-faculty-card h5 {
+  font-size: 18px;
+  margin: 0px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.mobile-version {
+  display: none;
+}
+
 .about-section-banner {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -1399,6 +1470,54 @@ input::-webkit-inner-spin-button {
   }
   .about-section-2-text {
     text-align: center;
+  }
+
+  /* ========= WHO WE ARE SECTION 4 ========= */
+  .who-we-are-section-4-container {
+    background-color: #e7e7e7;
+    padding: 40px;
+    margin-top: 100px;
+  }
+  .who-we-are-section-4-row {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .who-we-are-section-4-banner {
+    width: 100%;
+    height: 350px;
+  }
+  .who-we-are-section-4-banner p {
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 30px;
+    letter-spacing: 15px;
+  }
+  .who-we-are-section-4-banner h4 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 40px;
+  }
+  .desktop-version {
+    display: none;
+  }
+  .mobile-version {
+    display: initial !important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .who-we-are-section-4-faculty-card {
+    max-width: 100%;
+    max-height: 350px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
   }
 
   /* ========= WHO WE ARE ========= */
