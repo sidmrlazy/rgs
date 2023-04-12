@@ -4,12 +4,12 @@ include('includes/header.php') ?>
 <?php include('includes/navbar.php') ?>
 <?php // include('components/home/pop-up-modal.php') 
 ?>
-<?php include('components/home/carousel.php') ?>
-<?php include('components/home/college-affiliations.php') ?>
-<?php include('components/home/home-who-we-are-brief.php') ?>
-<?php include('components/home/features-tab.php') ?>
-<?php include('components/home/why-rgs.php') ?>
-<?php include('components/home/history-of-pharmacy.php') ?>
+<?php include('components/home/section-1.php') ?>
+<?php include('components/home/section-2.php') ?>
+<?php include('components/home/section-3.php') ?>
+<?php include('components/home/section-4.php') ?>
+<?php include('components/home/section-5.php') ?>
+<?php include('components/home/section-6.php') ?>
 <?php include('components/home/homepage-connect.php') ?>
 <?php //include('components/home/events-brief.php') 
 ?>

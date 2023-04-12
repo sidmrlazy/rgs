@@ -56,14 +56,8 @@ input::-webkit-inner-spin-button {
   border-top: 2px solid #138dd5;
   border-bottom: 2px solid #138dd5;
 }
-.navbar:hover {
-  background-color: #1c3746 !important;
-  transition: 0.3s all ease-in-out;
-  border-top: 2px solid #138dd5;
-  border-bottom: 2px solid #138dd5;
-}
 .active {
-  color: #000 !important;
+  color: #1c3746 !important;
   font-weight: 500;
 }
 .nav-link {
@@ -71,178 +65,142 @@ input::-webkit-inner-spin-button {
   font-size: 16px;
 }
 .nav-link:hover {
-  color: #138dd5;
+  color: #1c3746;
 }
 .navbar-brand {
   display: none !important;
 }
 
-/* ========= COLLEGE REGISTRATIONS ========= */
-.section-container {
-  border: 1px solid #e7e7e7;
-  border-radius: 5px;
-  background-color: #fff;
-  -webkit-box-shadow: 10px 10px 10px -10px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 10px 10px 10px -10px rgba(0, 0, 0, 0.5);
-  box-shadow: 10px 10px 10px -10px rgba(0, 0, 0, 0.5);
-}
-.section-grid {
+/* ========= COLLEGE AFFILIATIONS ========= */
+.home-section-2-row {
   display: flex;
-  flex-wrap: wrap;
-  padding: 20px;
-  justify-content: space-evenly;
-}
-.reg-section-card {
-  max-width: 350px !important;
-  max-height: 300px !important;
-  display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-}
-.reg-section-img {
-  max-width: 150px;
-  max-height: fit-content;
-  margin-right: 20px;
-}
-.reg-section-img img {
-  width: 70px;
-  height: auto;
-}
-.reg-section-txt {
-  width: 150px;
-}
-.xs-txt {
-  margin: 0;
-  font-weight: 600;
-  font-size: 12px;
-  color: #777;
-}
-.xl-txt {
-  font-weight: 600;
-  color: #000;
-  margin: 0 !important;
-  font-size: 14px;
-  line-height: 18px;
-}
-
-/* ========= HOME PAGE BRIEF SECTION ========= */
-.home-page-brief {
-  background: rgb(57, 97, 120);
-  background: linear-gradient(
-    132deg,
-    rgba(57, 97, 120, 1) 10%,
-    rgba(3, 30, 46, 1) 90%
-  );
-  padding: 20px;
-}
-.home-page-brief-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.home-page-brief-lottie {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.home-page-brief-lottie lottie-player {
-  width: 350px;
-  height: 350px;
-}
-.home-page-brief-content {
-  padding: 20px;
-  max-width: 100%;
-}
-.home-page-brief-content h1 {
-  font-weight: bold;
-  margin: 0;
-  font-size: 60px;
-  line-height: 55px;
-  margin-bottom: 20px;
-  color: #fff;
-}
-.home-page-brief-btn {
-  background-color: #138dd5;
-  padding: 10px;
-  border-radius: 5px;
-  margin-top: 20px;
-  width: 150px !important;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  border: 2px solid #138dd5;
-}
-.home-page-brief-btn:hover {
-  background-color: #1c3746;
-  transition: 0.3s all ease-in-out;
-  border: 2px solid #fff;
-}
-.home-page-brief-content p {
-  color: #fff;
-}
-.home-page-brief-btn a {
-  text-decoration: none;
-  color: #fff;
-}
-
-/* ========= HOMEPAGE FEATURE TAB ========= */
-.home-feature-section {
   margin-top: 100px;
   margin-bottom: 100px;
 }
-.feature-grid {
+.home-section-2-card {
+  max-width: 100%;
+  max-height: auto;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
-.feature-tab {
-  border: 1px solid #e7e7e7;
+.home-section-2-card img {
+  width: 50%;
+  height: auto;
+  margin-bottom: 20px;
+}
+.home-section-2-card p {
+  font-weight: 500;
+  text-align: center;
+}
+.home-section-2-carousel {
+  display: none;
+}
+
+/* ========= HOME SECTION 3 ========= */
+.home-section-3-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px !important;
+  margin-bottom: 100px !important;
+}
+.home-section-4-carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-3-slider-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-3-slider-img img {
+  width: 80% !important;
+  height: auto;
   border-radius: 5px;
-  width: 350px;
-  height: 250px;
-  padding: 20px;
+}
+.home-section-3-heading h1 {
+  font-size: 18px;
+  margin: 0;
+}
+.home-section-3-heading h2 {
+  font-size: 50px;
+  font-weight: 800;
+  margin: 0;
+  color: #138dd5;
+}
+.home-section-3-heading p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.home-section-3-heading a {
+  text-decoration: none;
+  color: #138dd5;
+  border: 1px solid #138dd5;
+  border-radius: 5px;
+  padding: 10px;
+}
+.home-section-3-heading a:hover {
+  background-color: #138dd5;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+
+/* ========= HOMEPAGE SECTION 4 ========= */
+.section-4-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-image: url("../images/scroll-background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-4-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.home-section-4-standalone h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 45px;
+}
+.home-section-4-card {
+  margin: 5px;
+  border: 1px solid #fff;
+  padding: 30px;
+  color: #e7e7e7e7;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) !important;
   text-decoration: none;
 }
-.feature-tab#color-1 {
-  background-color: #1c3746;
+.home-section-4-card:hover {
+  border: 2px solid #fff;
+  border-radius: 5px;
   color: #fff;
+  transform: scale(1.02);
+  transition: 0.3s all ease-in-out;
 }
-.feature-tab#color-1:hover {
-  color: #fff;
-  background-image: url("../svg/feature-tab-1.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  transition: 0.5s all ease-in-out !important;
+.home-section-4-card h2 {
+  margin: 0;
+  font-size: 22px;
 }
-.feature-tab#color-2 {
-  background-color: #138dd5;
-  color: #fff;
-}
-.feature-tab#color-2:hover {
-  color: #fff;
-  background-image: url("../svg/feature-tab-2.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  transition: 0.5s all ease-in-out !important;
-}
-.feature-tab#color-3 {
-  background-color: #f0c424;
-  color: #fff;
-}
-.feature-tab#color-3:hover {
-  color: #fff;
-  background-image: url("../svg/feature-tab-3.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  transition: 0.5s all ease-in-out !important;
-}
-.feature-tab ion-icon {
-  font-size: 30px;
+.home-section-4-card p {
+  margin: 0;
+  font-size: 18px;
+  line-height: 20px;
 }
 
 /* ========= HISTORY SECTION ========= */
@@ -262,68 +220,59 @@ input::-webkit-inner-spin-button {
   padding: 20px;
 }
 .history-section-txt p {
-  font-size: 15px;
+  font-size: 18px;
   text-align: justify;
-  line-height: 23px;
 }
 
-/* ========= WHY RGS ========= */
-.why-rgs-container {
+/* ========= HOME SECTION 5 ========= */
+.home-section-5 {
+  margin-top: 250px !important;
+  margin-bottom: 100px;
+}
+.home-section-5 h3 {
+  font-weight: bold;
+  margin-bottom: 100px;
+  color: #138dd5;
+  font-size: 40px;
+}
+.home-section-5-row {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+}
+.home-section-5-card {
+  max-width: 500px !important;
+  max-height: 300px;
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-section-5-card h4 {
+  font-size: 18px;
+}
+.home-section-5-card p {
+  font-size: 20px;
+}
+.section-5-line {
+  border-bottom: 1px solid #000;
+  margin-top: 20px;
+  margin-bottom: 20px;
   width: 100%;
 }
-.why-rgs-img-container {
+.home-section-5-card-img {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  max-width: 100%;
-  height: auto;
+  max-width: 500px;
+  max-height: 300px;
+  flex-direction: column;
 }
-.why-rgs-img {
-  width: 70%;
-  height: auto;
-}
-.why-rgs-content {
-  padding: 10px;
-}
-.why-rgs-content h3 {
-  font-weight: bold;
-  color: #1c3746;
-  font-size: 40px;
-  margin-bottom: 50px !important;
-  line-height: 60px;
-}
-.why-rgs-card {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  margin-top: 20px;
-  margin-bottom: 40px;
-}
-.why-rgs-icon-holder {
-  background-color: #1c3746;
-  border-radius: 5px;
-  width: 50px;
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-right: 20px;
-}
-.why-rgs-icon {
-  font-size: 24px;
-  color: #fff;
-}
-.why-rgs-card h4 {
-  font-weight: 500;
-  color: #1c3746;
-  font-size: 20px;
-  margin: 0;
-}
-.why-rgs-card p {
-  margin: 0;
+.home-section-5-card-img img {
+  width: 80%;
 }
 
 /* ========= HOMEPAGE CONNECT ========= */
@@ -477,6 +426,38 @@ input::-webkit-inner-spin-button {
   font-weight: 300;
   font-size: 20px;
 }
+
+/* ========= WHO WE ARE SECTION 1 ========= */
+.who-we-are-section-1-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+.who-we-are-section-1-container img {
+  width: 60%;
+  height: auto;
+}
+
+/* ========= WHO WE ARE SECTION 2 ========= */
+.about-section-2-container {
+  background-image: url("../images/scroll-background-3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 650px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-attachment: fixed;
+}
+.about-section-2-text {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300 !important;
+}
+
 .about-section-banner {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -532,8 +513,7 @@ input::-webkit-inner-spin-button {
   padding: 10px;
 }
 .section-2-txt p {
-  font-size: 18px;
-  line-height: 20px;
+  font-size: 20px;
   text-align: justify;
 }
 .section-3-heading {
@@ -1136,26 +1116,55 @@ input::-webkit-inner-spin-button {
     color: initial;
   }
 
-  /* ========= COLLEGE REGISTRATIONS ========= */
-  .section-container {
-    border: 0;
-    border-radius: 5px;
-    background-color: #fff;
-    -webkit-box-shadow: 0 0 0 -0 rgba(0, 0, 0, 0);
-    -moz-box-shadow: 0 0 0 -0 rgba(0, 0, 0, 0);
-    box-shadow: 0 0 0 -0 rgba(0, 0, 0, 0);
+  /* ========= COLLEGE AFFILIATIONS ========= */
+  .home-section-2-row {
+    display: none;
   }
-  .section-grid {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+  .home-section-2-carousel {
+    display: initial !important;
+  }
+  .home-section-2-card {
+    padding: 40px;
+  }
+  .home-section-2-card img {
+    width: 30%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  /* ========= HOME SECTION 3 ========= */
+  .home-section-3-row {
     flex-direction: column;
   }
-  .reg-section-card {
+  .home-section-4-carousel-container {
+    margin-bottom: 80px !important;
+  }
+  .home-section-3-heading {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
+    flex-direction: column;
+  }
+  .home-section-3-heading h1 {
+    text-align: center;
+  }
+  .home-section-3-heading h2 {
+    text-align: center;
+  }
+  .home-section-3-heading p {
+    text-align: center;
+  }
+  .home-section-3-heading a {
+    text-decoration: none;
+    color: #138dd5;
+    border: 1px solid #138dd5;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .home-section-3-heading a:hover {
+    background-color: #138dd5;
+    color: #fff;
+    transition: 0.3s all ease-in-out;
   }
 
   /* ========= HOME PAGE BRIEF SECTION ========= */
@@ -1206,33 +1215,42 @@ input::-webkit-inner-spin-button {
     color: #fff;
   }
 
-  /* ========= HOMEPAGE FEATURE TAB ========= */
-  .home-feature-section {
-    margin-top: 50px;
-    margin-bottom: 50px;
+  /* ========= HOMEPAGE SECTION 4 ========= */
+  .section-4-container {
+    height: 1000px;
   }
-  .feature-grid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .home-section-4-row {
     flex-direction: column;
   }
-  .feature-tab {
-    border: none;
-    border-radius: 5px;
-    width: 100%;
-    height: 200px !important;
-    padding: 20px;
+  .home-section-4-standalone h2 {
+    margin-bottom: 30px !important;
+    text-align: center;
+  }
+  .home-section-4-card {
+    margin: 5px;
+    border: 1px solid #138dd5;
+    padding: 30px;
+    color: #138dd5;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) !important;
-    margin-bottom: 10px;
+    text-decoration: none;
   }
-
-  .feature-tab ion-icon {
-    font-size: 30px !important;
+  .home-section-4-card:hover {
+    border: 1px solid #fff;
+    color: #fff;
+    transition: 0.3s all ease-in-out;
+  }
+  .home-section-4-card h2 {
+    margin: 0;
+    font-size: 22px;
+  }
+  .home-section-4-card p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 20px;
   }
 
   /* ========= HISTORY SECTION ========= */
@@ -1241,6 +1259,56 @@ input::-webkit-inner-spin-button {
   }
   .history-section-txt {
     padding: 10px;
+  }
+
+  /* ========= HOME SECTION 5 ========= */
+  .home-section-5 {
+    margin-top: 150px !important;
+    margin-bottom: 100px;
+  }
+  .home-section-5 h3 {
+    margin-bottom: 50px;
+    font-size: 30px;
+  }
+  .home-section-5-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-section-5-card {
+    max-width: 100% !important;
+    max-height: 100%;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .home-section-5-card h4 {
+    font-size: 18px;
+  }
+  .home-section-5-card p {
+    font-size: 20px;
+  }
+  .section-5-line {
+    border-bottom: 1px solid #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .home-section-5-card-img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 500px;
+    max-height: 300px;
+    flex-direction: column;
+  }
+  .home-section-5-card-img img {
+    width: 70%;
   }
 
   /* ========= WHY RGS ========= */
@@ -1313,6 +1381,24 @@ input::-webkit-inner-spin-button {
   }
   .homepage-event-brief-card {
     width: 100%;
+  }
+
+  /* ========= WHO WE ARE SECTION 1 ========= */
+  .who-we-are-section-1-container {
+    margin-bottom: 50px;
+  }
+  .who-we-are-section-1-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* ========= WHO WE ARE SECTION 2 ========= */
+  .about-section-2-container {
+    height: 100%;
+    padding: 10px;
+  }
+  .about-section-2-text {
+    text-align: center;
   }
 
   /* ========= WHO WE ARE ========= */
