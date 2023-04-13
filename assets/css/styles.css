@@ -679,253 +679,6 @@ input::-webkit-inner-spin-button {
   text-align: right;
 }
 
-/* ========= WHO WE ARE SECTION 4 ========= */
-
-.team-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.faculty-img-container {
-  width: 200px !important;
-  height: 200px !important;
-  margin: 5px;
-}
-#faculty-1 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-1-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-2 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-2-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-3 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-3-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-4 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-4-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-5 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-5-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-6 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-6-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-7 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-7-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-8 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-8-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-9 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-9-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-10 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-10-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-11 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-11-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-12 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-12-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-13 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-13-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-14 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-14-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-15 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-15-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-16 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-16-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-17 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-17-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-18 {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-18-img.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-#faculty-1:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-1-txt-new.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-2:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-2-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-3:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-3-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-4:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-4-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-5:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-5-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-6:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-6-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-7:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-7-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-8:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-8-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-9:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-9-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-10:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-10-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-11:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-11-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-12:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-12-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-13:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-13-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-14:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-14-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-15:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-15-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-16:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-16-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-17:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-17-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-#faculty-18:hover {
-  border-radius: 10px;
-  background-image: url("../webp/faculty-18-txt.webp");
-  background-repeat: no-repeat;
-  background-size: contain;
-  transition: 0.5s all ease-in-out;
-}
-
 /* ========= COURSES SECTION 1 ========= */
 .courses-section-1 {
   margin-top: 150px;
@@ -1151,11 +904,31 @@ input::-webkit-inner-spin-button {
 .developer-footer p {
   margin: 0;
   color: #fff;
-  text-align: center;
+  text-align: left;
 }
 .developer-footer span a {
   color: #138dd5;
   text-decoration: none;
+}
+
+/* ========= LEGAL ========= */
+.legal-section {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.legal-section h6 {
+  font-size: 36px;
+  text-align: center;
+  font-weight: bold;
+}
+.legal-section p {
+  font-size: 20px;
+  text-align: left !important;
+}
+.legal-section li {
+  font-size: 18px !important;
 }
 
 @media only screen and (max-width: 768px) {
