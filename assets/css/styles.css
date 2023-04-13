@@ -904,7 +904,7 @@ input::-webkit-inner-spin-button {
 .developer-footer p {
   margin: 0;
   color: #fff;
-  text-align: left;
+  text-align: center;
 }
 .developer-footer span a {
   color: #138dd5;
