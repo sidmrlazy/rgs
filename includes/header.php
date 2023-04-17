@@ -33,8 +33,6 @@
     <!-- =========== LOTTIEFILES =========== -->
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-    <!-- =========== CAPTACHA =========== -->
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
     <title><?php echo $title ?></title>
 </head>

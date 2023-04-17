@@ -97,6 +97,5 @@
         </div>
 
         <button type="submit" name="register" class="btn btn-primary w-100">Submit</button>
-        <div class="g-recaptcha mt-3 w-100" data-sitekey="6LdRDJQlAAAAALSuYNOOYRENDDhy2Vk-cffI45BN"></div>
     </form>
 </div>

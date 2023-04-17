@@ -144,8 +144,7 @@
                     rows="5"></textarea>
             </div>
 
-            <button type="submit" name="contact" data-sitekey="6LdRDJQlAAAAALSuYNOOYRENDDhy2Vk-cffI45BN"
-                class="g-recaptcha btn btn-primary w-100">Submit</button>
+            <button type="submit" name="contact" class="btn btn-primary w-100">Submit</button>
             <!-- <div class=" mt-3 w-100" ></div> -->
         </form>
     </div>
