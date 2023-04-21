@@ -11,39 +11,40 @@
                     <div class="carousel-item active">
                         <div class="who-we-are-section-4-faculty-card-row">
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-1-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-1-img.png"
+                                    alt="RGS College of Pharmacy Faulty 1">
                                 <h5>Dr. Milan Kumar Mandal</h5>
                                 <p>Professor</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-2-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-2-img.png" alt="">
                                 <h5>Mr. Ravikant Kushwaha</h5>
-                                <p>Assistant Professor</p>
+                                <p>Associate Professor</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-3-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-3-img.png" alt="">
                                 <h5>Ms. Renu Chaudhary</h5>
-                                <p>Assistant Professor</p>
+                                <p>Associate Professor</p>
                             </div>
                         </div>
                         <div class="who-we-are-section-4-faculty-card-row">
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-4-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-4-img.png" alt="">
+                                <h5>Mrs. Roop Ranjan Srivastava</h5>
+                                <p>Associate Professor</p>
+                            </div>
+
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-5-img.png" alt="">
                                 <h5>Mr. Vaibhav Dwivedi</h5>
                                 <p>Assistant Professor</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-5-img.webp" alt="">
-                                <h5>Mrs. Priti Khushbu</h5>
-                                <p>Assistant Professor</p>
-                            </div>
-
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-6-img.webp" alt="">
-                                <h5>Ms. Rabiya Ahsan</h5>
+                                <img src="assets/images/faculty/faculty-6-img.png" alt="">
+                                <h5>Ms. Mamta Agrahari</h5>
                                 <p>Assistant Professor</p>
                             </div>
                         </div>
@@ -51,39 +52,39 @@
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card-row">
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-7-img.webp" alt="">
-                                <h5>Ms. Mamta Agrahari</h5>
-                                <p>Assistant Professir</p>
-                            </div>
-
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-8-img.webp" alt="">
-                                <h5>Ms. Sarika Gupta</h5>
-                                <p>Assistant Professor</p>
-                            </div>
-
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-9-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-7-img.png" alt="">
                                 <h5>Mr. Aditya Kumar</h5>
-                                <p>Assistant Professor</p>
-                            </div>
-                        </div>
-                        <div class="who-we-are-section-4-faculty-card-row">
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-10-img.webp" alt="">
-                                <h5>Ms. Vijayshwari Mishra</h5>
                                 <p>Assistant Professir</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-11-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-8-img.png" alt="">
+                                <h5>Ms. Vijayshwari Mishra</h5>
+                                <p>Assistant Professor</p>
+                            </div>
+
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-9-img.png" alt="">
                                 <h5>Ms. Pragya Srivastava</h5>
                                 <p>Assistant Professor</p>
                             </div>
+                        </div>
+                        <div class="who-we-are-section-4-faculty-card-row">
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-10-img.png" alt="">
+                                <h5>Ms. Damini Mishra</h5>
+                                <p>Assistant Professir</p>
+                            </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-12-img.webp" alt="">
-                                <h5>Ms. Damini Mishra</h5>
+                                <img src="assets/images/faculty/faculty-11-img.png" alt="">
+                                <h5>Ms. Archita Tiwari</h5>
+                                <p>Assistant Professor</p>
+                            </div>
+
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-12-img.png" alt="">
+                                <h5>Ms. Anupama Rao</h5>
                                 <p>Assistant Professor</p>
                             </div>
                         </div>
@@ -91,40 +92,45 @@
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card-row">
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-13-img.webp" alt="">
-                                <h5>Ms. Archita Tiwari</h5>
+                                <img src="assets/images/faculty/faculty-13-img.png" alt="">
+                                <h5>Ms. Pooja Jaiswal</h5>
                                 <p>Assistant Professir</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-14-img.webp" alt="">
-                                <h5>Mr. Ankit Ranjan</h5>
-                                <p>Lecturer</p>
+                                <img src="assets/images/faculty/faculty-14-img.png" alt="">
+                                <h5>Ms. Farha Deeba Khan</h5>
+                                <p>Assistant Professor</p>
                             </div>
 
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-15-img.webp" alt="">
-                                <h5>Mr. Shubham Awasthi</h5>
-                                <p>Lecturer</p>
+                                <img src="assets/images/faculty/faculty-15-img.png" alt="">
+                                <h5>Mr. Sandeep Kumar Mishra</h5>
+                                <p>Assistant Professor</p>
                             </div>
                         </div>
                         <div class="who-we-are-section-4-faculty-card-row">
                             <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-16-img.webp" alt="">
+                                <img src="assets/images/faculty/faculty-16-img.png" alt="">
+                                <h5>Ms. Shivangi Dwivedi</h5>
+                                <p>Assistant Professor</p>
+                            </div>
+
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-17-img.png" alt="">
+                                <h5>Mr. Aryan Shukla</h5>
+                                <p>Assistant Professor</p>
+                            </div>
+
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-18-img.png" alt="">
+                                <h5>Mr. Shubham Awasthi</h5>
+                                <p>Lecturer</p>
+                            </div>
+                            <div class="who-we-are-section-4-faculty-card">
+                                <img src="assets/images/faculty/faculty-19-img.png" alt="">
                                 <h5>Mr. Rahul Singh Yadav</h5>
                                 <p>Lecturer</p>
-                            </div>
-
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-17-img.webp" alt="">
-                                <h5>Ms. Shivangi Dwivedi</h5>
-                                <p>Lecturer</p>
-                            </div>
-
-                            <div class="who-we-are-section-4-faculty-card">
-                                <img src="assets/webp/faculty-18-img.webp" alt="">
-                                <h5>Mr. Aryan Shukla</h5>
-                                <p>I.T. & Math</p>
                             </div>
                         </div>
                     </div>
@@ -141,137 +147,157 @@
                 </button>
             </div>
         </div>
-
+        <!-- ====================== MOBILE CAROUSEL ====================== -->
         <div class="mobile-version">
             <div id="mobileCarousel" class="carousel carousel-dark slide">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-1-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-1-img.png" alt="RGS College of Pharmacy Faulty 1">
                             <h5>Dr. Milan Kumar Mandal</h5>
                             <p>Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-2-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-2-img.png" alt="">
                             <h5>Mr. Ravikant Kushwaha</h5>
-                            <p>Assistant Professor</p>
+                            <p>Associate Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-3-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-3-img.png" alt="">
                             <h5>Ms. Renu Chaudhary</h5>
-                            <p>Assistant Professor</p>
+                            <p>Associate Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-4-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-4-img.png" alt="">
+                            <h5>Mrs. Roop Ranjan Srivastava</h5>
+                            <p>Associate Professor</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-5-img.png" alt="">
                             <h5>Mr. Vaibhav Dwivedi</h5>
                             <p>Assistant Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-5-img.webp" alt="">
-                            <h5>Mrs. Priti Khushbu</h5>
-                            <p>Assistant Professor</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-6-img.webp" alt="">
-                            <h5>Ms. Rabiya Ahsan</h5>
+                            <img src="assets/images/faculty/faculty-6-img.png" alt="">
+                            <h5>Ms. Mamta Agrahari</h5>
                             <p>Assistant Professor</p>
                         </div>
                     </div>
 
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-7-img.webp" alt="">
-                            <h5>Ms. Mamta Agrahari</h5>
-                            <p>Assistant Professir</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-8-img.webp" alt="">
-                            <h5>Ms. Sarika Gupta</h5>
-                            <p>Assistant Professor</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-9-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-7-img.png" alt="">
                             <h5>Mr. Aditya Kumar</h5>
-                            <p>Assistant Professor</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-10-img.webp" alt="">
-                            <h5>Ms. Vijayshwari Mishra</h5>
                             <p>Assistant Professir</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-11-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-8-img.png" alt="">
+                            <h5>Ms. Vijayshwari Mishra</h5>
+                            <p>Assistant Professor</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-9-img.png" alt="">
                             <h5>Ms. Pragya Srivastava</h5>
                             <p>Assistant Professor</p>
                         </div>
                     </div>
+
+
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-12-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-10-img.png" alt="">
                             <h5>Ms. Damini Mishra</h5>
+                            <p>Assistant Professir</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-11-img.png" alt="">
+                            <h5>Ms. Archita Tiwari</h5>
+                            <p>Assistant Professor</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-12-img.png" alt="">
+                            <h5>Ms. Anupama Rao</h5>
                             <p>Assistant Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-13-img.webp" alt="">
-                            <h5>Ms. Archita Tiwari</h5>
+                            <img src="assets/images/faculty/faculty-13-img.png" alt="">
+                            <h5>Ms. Pooja Jaiswal</h5>
                             <p>Assistant Professir</p>
                         </div>
                     </div>
+
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-14-img.webp" alt="">
-                            <h5>Mr. Ankit Ranjan</h5>
-                            <p>Lecturer</p>
+                            <img src="assets/images/faculty/faculty-14-img.png" alt="">
+                            <h5>Ms. Farha Deeba Khan</h5>
+                            <p>Assistant Professor</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-15-img.png" alt="">
+                            <h5>Mr. Sandeep Kumar Mishra</h5>
+                            <p>Assistant Professor</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-15-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-16-img.png" alt="">
+                            <h5>Ms. Shivangi Dwivedi</h5>
+                            <p>Assistant Professor</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-17-img.png" alt="">
+                            <h5>Mr. Aryan Shukla</h5>
+                            <p>Assistant Professor</p>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="who-we-are-section-4-faculty-card">
+                            <img src="assets/images/faculty/faculty-18-img.png" alt="">
                             <h5>Mr. Shubham Awasthi</h5>
                             <p>Lecturer</p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-16-img.webp" alt="">
+                            <img src="assets/images/faculty/faculty-19-img.png" alt="">
                             <h5>Mr. Rahul Singh Yadav</h5>
                             <p>Lecturer</p>
                         </div>
                     </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-17-img.webp" alt="">
-                            <h5>Ms. Shivangi Dwivedi</h5>
-                            <p>Lecturer</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="who-we-are-section-4-faculty-card">
-                            <img src="assets/webp/faculty-18-img.webp" alt="">
-                            <h5>Mr. Aryan Shukla</h5>
-                            <p>I.T. & Math</p>
-                        </div>
-                    </div>
+
+
+
+
+
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#mobileCarousel"
                     data-bs-slide="prev">
