@@ -58,13 +58,13 @@
                     <a class="nav-link" href="admissions.php">Admissions</a>
                     <?php } ?>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <?php if ($title === "Courses | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="courses.php">Courses</a>
                     <?php } else { ?>
                     <a class="nav-link" href="courses.php">Courses</a>
                     <?php } ?>
-                </li>
+                </li> -->
                 <!-- <li class="nav-item">
                     <?php if ($title === "RGS Edge | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="rgs-edge.php">RGS Edge</a>
@@ -80,23 +80,25 @@
                     <?php } ?>
                 </li> -->
 
-                <!-- <li class="nav-item dropdown">
-                    <?php if ($title === "Departments | RGS College of Pharmacy" || $title === "Calendar | RGS College of Pharmacy") { ?>
-                        <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Academics
-                        </a>
+                <li class="nav-item dropdown">
+                    <?php if ($title === "Academics | RGS College of Pharmacy" || $title === "Calendar | RGS College of Pharmacy") { ?>
+                    <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Academics
+                    </a>
                     <?php } else { ?>
-                        <a class="nav-link  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Academics
-                        </a>
+                    <a class="nav-link  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Academics
+                    </a>
                     <?php } ?>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="departments.php">Departments</a></li>
-                        <li><a class="dropdown-item" href="calendar.php">Calendar</a></li>
+                        <li><a class="dropdown-item" href="courses.php">Courses</a></li>
+                        <!-- <li><a class="dropdown-item" href="calendar.php">Calendar</a></li>
                         <hr>
-                        <li><a class="dropdown-item" href="#">Downloads</a></li>
+                        <li><a class="dropdown-item" href="#">Downloads</a></li> -->
                     </ul>
-                </li> -->
+                </li>
                 <!-- <li class="nav-item">
                     <?php if ($title == "Research & Development | RGS College of Pharmacy") { ?>
                     <a class="nav-link active" href="research.php">Research & Development</a>
