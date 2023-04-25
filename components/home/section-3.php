@@ -3,12 +3,12 @@
         <div class="col-md-6 home-section-4-carousel-container">
             <div id="section3Carousel" class="carousel carousel-dark slide">
                 <div class="carousel-inner">
-                    <div class="carousel-item active">
+                    <!-- <div class="carousel-item active">
                         <div class="home-section-3-slider-img">
                             <img src="assets/images/home-slider-1.png" class="d-block w-100" alt="...">
                         </div>
-                    </div>
-                    <div class="carousel-item">
+                    </div> -->
+                    <div class="carousel-item active">
                         <div class="home-section-3-slider-img">
                             <img src="assets/images/home-slider-2.png" class="d-block w-100" alt="...">
                         </div>

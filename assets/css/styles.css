@@ -383,14 +383,14 @@ input::-webkit-inner-spin-button {
 /* ========= WHO WE ARE ========= */
 .who-we-are-section-header-img-container {
   max-width: 100%;
-  max-height: 300px;
+  max-height: 450px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   width: 100%;
-  height: 250px;
-  background-image: url("../webp/who-we-are-section-banner.webp");
+  height: 450px;
+  background-image: url("../slider-images/section-banner-1.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
