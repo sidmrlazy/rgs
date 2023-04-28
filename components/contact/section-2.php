@@ -28,7 +28,7 @@
 
         <div class="contact-details-bar">
             <div class="contact-details-icon">
-                <ion-icon name="call-outline"></ion-icon>
+                <ion-icon name="mail-outline"></ion-icon>
             </div>
 
             <div class="contact-details">

@@ -1,7 +1,7 @@
 <div class="section-4-container">
     <div class="container home-section-4-row">
         <div class="col-md-3 home-section-4-standalone">
-            <h2>Unmatched Service. Unmatched Excellence</h2>
+            <h2>Unmatched Service. Unmatched Excellence.</h2>
         </div>
         <a href="index.php#history" class="col-md-3 home-section-4-card">
             <h2>History</h2>
