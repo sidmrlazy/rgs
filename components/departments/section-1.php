@@ -26,7 +26,7 @@
                         <h2>Department of Pharmacognosy</h2>
                     </a>
 
-                    <a href="#" class="department-tab">
+                    <a href="#Communication" class="department-tab">
                         <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Department of Communication and I.T.</h2>
                     </a>
