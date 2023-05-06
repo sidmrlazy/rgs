@@ -9,12 +9,12 @@
                     </a>
 
                     <a href="#pharmacology" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-2.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Department Of Pharmacology</h2>
                     </a>
 
                     <a href="#pharmaceuticalChemistry" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-3.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Department of Pharmaceutical Chemistry</h2>
                     </a>
                 </div>
@@ -22,12 +22,12 @@
             <div class="carousel-item">
                 <div class="department-row">
                     <a href="#Pharmacognosy" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-4.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Department of Pharmacognosy</h2>
                     </a>
 
                     <a href="#Communication" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-5.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Department of Communication and I.T.</h2>
                     </a>
                 </div>
@@ -60,7 +60,7 @@
             <div class="carousel-item">
                 <div class="department-mobile-row">
                     <a href="#pharmacology" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-2.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Departments of Pharmacology</h2>
                     </a>
                 </div>
@@ -68,7 +68,7 @@
             <div class="carousel-item">
                 <div class="department-mobile-row">
                     <a href="#pharmaceuticalChemistry" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-3.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Departments of Pharmaceutical Chemistry</h2>
                     </a>
                 </div>
@@ -76,7 +76,7 @@
             <div class="carousel-item">
                 <div class="department-mobile-row">
                     <a href="#Pharmacognosy" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-4.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Departments of Pharmacognosy</h2>
                     </a>
                 </div>
@@ -84,7 +84,7 @@
             <div class="carousel-item">
                 <div class="department-mobile-row">
                     <a href="#Communication" class="department-tab">
-                        <img src="assets/icon/dep-icon-1.png" alt="Departments of Pharmaceutics Icon">
+                        <img src="assets/icon/dep-icon-5.png" alt="Departments of Pharmaceutics Icon">
                         <h2>Departments of Communication and I.T.</h2>
                     </a>
                 </div>
