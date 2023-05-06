@@ -1,6 +1,6 @@
 <div class="top-nav">
     <a href="index.php" class="top-nav-brand">
-        <img src="assets/logo/logo.svg" alt="rgs-college-brand-logo">
+        <img src="assets/logo/rgs-logo.webp" alt="rgs-college-brand-logo">
     </a>
 
     <div class="top-nav-row">
@@ -28,7 +28,7 @@
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
-            <img src="assets/logo/logo.svg" alt="rgs-college-brand-logo">
+            <img src="assets/logo/rgs-logo.webp" alt="rgs-college-brand-logo">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
