@@ -94,6 +94,7 @@
                     <?php } ?>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="courses.php">Courses</a></li>
+                        <li><a class="dropdown-item" href="departments.php">Departments</a></li>
                         <!-- <li><a class="dropdown-item" href="calendar.php">Calendar</a></li>
                         <hr>
                         <li><a class="dropdown-item" href="#">Downloads</a></li> -->

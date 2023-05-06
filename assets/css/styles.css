@@ -755,6 +755,51 @@ input::-webkit-inner-spin-button {
   text-align: center;
 }
 
+/* ========= DEPARTMENTS ========= */
+.department-tab {
+  max-width: 180px;
+  max-height: 180px;
+  width: 180px;
+  height: 180px;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  background-color: #fff;
+  text-decoration: none;
+  color: #1c3746 !important;
+}
+.department-tab img {
+  width: 50%;
+  height: auto;
+}
+.department-tab h2 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+.department-tab:hover {
+  color: #138dd5;
+  transition: 0.3s all ease-in-out;
+}
+.department-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.carousel-prev-department-btn {
+  margin-left: -120px !important;
+}
+.carousel-next-department-btn {
+  margin-right: -120px !important;
+}
+#department-mobile-view {
+  display: none;
+}
+
 /* ========= ADMISSIONS REGISTRATION FORM ========= */
 .registration-form-heading {
   margin-top: 50px;
@@ -1383,6 +1428,50 @@ input::-webkit-inner-spin-button {
   /* ========= COURSES SECTION 1 ========= */
   .courses-section-1-txt#txt-right {
     margin-top: 120px;
+  }
+
+  /* ========= DEPARTMENTS ========= */
+  #department-desktop-view {
+    display: none !important;
+  }
+  #department-mobile-view {
+    display: initial !important;
+  }
+  .carousel-prev-department-btn {
+    margin-left: 0 !important;
+  }
+  .carousel-next-department-btn {
+    margin-right: 0 !important;
+  }
+  .department-mobile-row {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .department-tab {
+    max-width: 180px;
+    max-height: 180px;
+    width: 180px;
+    height: 180px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #fff;
+    text-decoration: none;
+    color: #1c3746 !important;
+  }
+  .department-tab img {
+    width: 50%;
+    height: auto;
+  }
+  .department-tab h2 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
   }
 
   /* ========= ADMISSIONS REGISTRATION FORM ========= */
