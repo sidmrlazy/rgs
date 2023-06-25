@@ -8,6 +8,10 @@
 }
 
 /* ============ ADMIN DASHBOARD ============ */
+.admin-dashboard {
+  width: 100%;
+  margin: 5px;
+}
 .admin-dashboard-button-grid {
   display: flex;
   flex-wrap: wrap;
@@ -42,6 +46,17 @@
   color: #1c3746;
   margin: 0;
 }
+.admin-dashboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.admin-table-container {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 20px;
+}
 
 /* ============ ADD EVENT FORM ============ */
 .form-header {
@@ -58,8 +73,32 @@
   border: 1px solid #e7e7e7e7;
   padding: 20px;
 }
+.uplod-form {
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  width: 100%;
+  padding: 20px;
+}
 
 /* ============ ADMIN TABLES ============ */
+.cell-holder-mid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.table-thumb {
+  max-width: 100px;
+  max-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table-thumb img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #e7e7e7;
+}
 .dashboard-row {
   display: flex;
   justify-content: center;

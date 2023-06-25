@@ -12,6 +12,12 @@
                 <li class="nav-item nav-item-mobile">
                     <a class="nav-link active" aria-current="page" href="index-admin.php">Dashboard</a>
                 </li>
+                <li class="nav-item nav-item-mobile">
+                    <a class="nav-link active" aria-current="page" href="admin-add-event.php">Add Events</a>
+                </li>
+                <!-- <li class="nav-item nav-item-mobile">
+                    <a class="nav-link active" aria-current="page" href="#">View Events</a>
+                </li> -->
 
                 <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"

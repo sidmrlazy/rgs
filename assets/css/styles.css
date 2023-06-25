@@ -333,6 +333,59 @@ input::-webkit-inner-spin-button {
   height: auto;
 } */
 
+/* ========= HOME SECTION 7 ========= */
+.home-section-7 {
+  margin-top: 250px !important;
+  margin-bottom: 100px;
+}
+.home-section-7 h3 {
+  text-align: center;
+  color: #138dd5;
+  font-weight: bolder;
+  font-size: 50px;
+}
+.home-section-7 p {
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+}
+.home-section-7-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.home-section-7-card {
+  max-width: 350px;
+  max-height: 500px;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: #fff;
+}
+.home-section-7-card img {
+  width: 100%;
+  height: auto;
+}
+.home-section-7-card h3 {
+  font-size: 20px;
+  margin: 0;
+  color: #1c3746;
+  text-align: left;
+}
+.home-section-7-card p {
+  font-size: 16px;
+  margin: 0;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.home-section-7-btn {
+  background-color: #fff;
+  border: 0;
+}
+
 /* ========= HOMEPAGE CONNECT ========= */
 .homepage-connect-container {
   padding: 20px;

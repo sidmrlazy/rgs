@@ -35,9 +35,9 @@
                 $_SESSION['user_id'] = $user_id;
                 header("location: dashboard-controller.php");
             } else { ?>
-        <div class="alert alert-danger mt-3 mb-3 w-100" role="alert">
-            Incorrect User Name or Password!
-        </div>
+                <div class="alert alert-danger mt-3 mb-3 w-100" role="alert">
+                    Incorrect User Name or Password!
+                </div>
         <?php
 
             }
@@ -50,13 +50,11 @@
 
 
         <div class="form-floating w-100 mb-3">
-            <input type="text" name="user_name" class="form-control rounded-input" id="userName"
-                placeholder="name@example.com">
+            <input type="text" name="user_name" class="form-control rounded-input" id="userName" placeholder="name@example.com">
             <label for="userName">Username</label>
         </div>
         <div class="form-floating w-100 mb-3">
-            <input type="password" name="user_password" class="form-control rounded-input" id="floatingPassword"
-                placeholder="Password">
+            <input type="password" name="user_password" class="form-control rounded-input" id="floatingPassword" placeholder="Password">
             <label for="floatingPassword">Password</label>
         </div>
         <div class="w-100">
