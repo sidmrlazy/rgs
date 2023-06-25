@@ -5,10 +5,10 @@
             <p>Affiliated with Abdul Kalam Technical University (AKTU)</p>
         </div>
 
-        <div class="home-section-2-card">
+        <!-- <div class="home-section-2-card">
             <img src="assets/svg/reg-2.svg" alt="">
             <p>Approved by Pharmacy Council of India (PCI)</p>
-        </div>
+        </div> -->
 
         <div class="home-section-2-card">
             <img src="assets/svg/reg-4.svg" alt="">
@@ -27,12 +27,12 @@
                     <p>Affiliated with Abdul Kalam Technical University (AKTU)</p>
                 </div>
             </div>
-            <div class=" carousel-item">
+            <!-- <div class=" carousel-item">
                 <div class="home-section-2-card">
                     <img src="assets/svg/reg-2.svg" alt="">
                     <p>Approved by Pharmacy Council of India (PCI)</p>
                 </div>
-            </div>
+            </div> -->
             <div class="carousel-item">
                 <div class="home-section-2-card">
                     <img src="assets/svg/reg-4.svg" alt="">

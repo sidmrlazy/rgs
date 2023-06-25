@@ -4,6 +4,7 @@
             <img src="assets/webp/history.webp" alt="">
         </div>
         <div class="col-md-6 history-section-txt order-0">
+            <h5>Mahadev Lal Schroff</h5>
             <p>A naturally progressive industry, pharma has drawn together some great thinkers and speakers around the
                 globe. However, did you know about it’s debut in India?</p>
             <p>In India, the formal pharmacy education - leading to a degree began with the introduction of the 3-year

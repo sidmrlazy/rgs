@@ -193,6 +193,11 @@ input::-webkit-inner-spin-button {
   transform: scale(1.02);
   transition: 0.3s all ease-in-out;
 }
+.home-section-4-card img {
+  max-width: 100%;
+  max-height: 50px;
+  margin-bottom: 20px;
+}
 .home-section-4-card h2 {
   margin: 0;
   font-size: 22px;
@@ -214,13 +219,18 @@ input::-webkit-inner-spin-button {
 }
 .history-section-img img {
   width: 100%;
+  border-radius: 5px;
 }
 .history-section-txt {
   max-width: 100%;
   padding: 20px;
 }
+.history-section-txt h5 {
+  font-size: 55px;
+  font-weight: bold;
+}
 .history-section-txt p {
-  font-size: 18px;
+  font-size: 16px;
   text-align: justify;
 }
 
@@ -265,14 +275,15 @@ input::-webkit-inner-spin-button {
 }
 .home-section-5-card-img {
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  max-width: 500px;
-  max-height: 300px;
+  justify-content: center;
+  align-items: flex-end;
+  max-width: 100%;
+  max-height: auto;
   flex-direction: column;
 }
 .home-section-5-card-img img {
-  width: 80%;
+  width: 100%;
+  height: auto;
 }
 
 /* ========= HOMEPAGE CONNECT ========= */
