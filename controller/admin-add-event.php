@@ -33,9 +33,9 @@
             )";
                     $res = mysqli_query($connection, $query);
                     if ($res) { ?>
-                        <div class="alert alert-success mt-3 mb-3 w-100" role="alert">
-                            Event Album Added!
-                        </div>
+            <div class="alert alert-success mt-3 mb-3 w-100" role="alert">
+                Event Album Added!
+            </div>
             <?php
                     }
                 }
@@ -44,7 +44,8 @@
 
             <form action="" method="POST" class="w-100 mt-3 event-form-container" enctype="multipart/form-data">
                 <div class="form-floating mb-3">
-                    <input type="file" name="event_album_img" class="form-control" id="eventName" placeholder="Event Name">
+                    <input type="file" name="event_album_img" class="form-control" id="eventName"
+                        placeholder="Event Name">
                     <label for="eventName">Album Image</label>
                 </div>
                 <div class="form-floating mb-3">
@@ -52,11 +53,13 @@
                     <label for="eventName">Event Name</label>
                 </div>
                 <div class="form-floating mb-3">
-                    <textarea class="form-control" name="event_det" placeholder="Event Details" id="eventDetails" style="height: 100px"></textarea>
+                    <textarea class="form-control" name="event_det" placeholder="Event Details" id="eventDetails"
+                        style="height: 100px"></textarea>
                     <label for="eventDetails">Mention event details</label>
                 </div>
                 <div class="form-floating mb-3">
-                    <input type="date" class="form-control" name="event_date" id="floatingPassword" placeholder="Password">
+                    <input type="date" class="form-control" name="event_date" id="floatingPassword"
+                        placeholder="Password">
                     <label for="floatingPassword">Event Date</label>
                 </div>
 
@@ -130,26 +133,26 @@
                             $event_name = $row['event_name'];
 
                         ?>
-                            <tr>
-                                <th scope="row" class="cell-holder-mid">
-                                    <div class="table-thumb">
-                                        <img src="<?php echo $event_album_img ?>" alt="">
-                                    </div>
-                                </th>
-                                <td><?php echo $event_name ?></td>
-                                <td>
-                                    <form action="admin-add-img.php" method="post">
-                                        <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
-                                        <button type="submit" name="add" class="btn btn-sm btn-primary">Add Image</button>
-                                    </form>
-                                </td>
-                                <td>
-                                    <form action="" method="post">
-                                        <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
-                                        <button type="submit" name="del" class="btn btn-sm btn-danger">Delete</button>
-                                    </form>
-                                </td>
-                            </tr>
+                        <tr>
+                            <th scope="row" class="cell-holder-mid">
+                                <div class="table-thumb">
+                                    <img src="<?php echo $event_album_img ?>" alt="">
+                                </div>
+                            </th>
+                            <td><?php echo $event_name ?></td>
+                            <td>
+                                <form action="admin-add-img.php" method="post">
+                                    <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
+                                    <button type="submit" name="add" class="btn btn-sm btn-primary">Add Image</button>
+                                </form>
+                            </td>
+                            <td>
+                                <form action="" method="post">
+                                    <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
+                                    <button type="submit" name="del" class="btn btn-sm btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
                         <?php } ?>
                     </tbody>
                 </table>

@@ -16,7 +16,7 @@
                     <a class="nav-link active" aria-current="page" href="admin-add-event.php">Add Events</a>
                 </li>
                 <li class="nav-item nav-item-mobile">
-                    <a class="nav-link active" aria-current="page" href="#">Student Corner</a>
+                    <a class="nav-link active" aria-current="page" href="student-corner.php">Student Corner</a>
                 </li>
 
                 <!-- <li class="nav-item dropdown">
