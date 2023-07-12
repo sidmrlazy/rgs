@@ -39,9 +39,11 @@
     </div>
 </div> -->
 
-
-<div class="about-section-2-container">
-    <div class="container about-section-2-text">
+<div class="container about-section-2-container">
+    <div class="w-100 about-section-2-img-container">
+        <img src="assets/images/scroll-background-3.png" alt="">
+    </div>
+    <div class="w-100 about-section-2-text">
         <p>RGS College of Pharmacy opened its gates to aspiring pharma students in the year 2019. The foundations of
             the
             College were laid on the belief that students anywhere and everywhere should have access to quality
@@ -74,4 +76,5 @@
         <p>At RGS College of Pharmacy: Academics, Discipline, Dedication and Determination move like four wheels of
             a chariot.</p>
     </div>
+
 </div>
