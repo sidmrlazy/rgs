@@ -5,14 +5,12 @@
 
         <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab"
-                    data-bs-target="#aboutComm" type="button" role="tab" aria-selected="true">About
+                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#aboutComm" type="button" role="tab" aria-selected="true">About
                     the
                     Department</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab"
-                    data-bs-target="#aboutCommFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
+                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#aboutCommFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
             </li>
         </ul>
 
