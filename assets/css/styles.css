@@ -402,6 +402,14 @@ input::-webkit-inner-spin-button {
   color: #fff;
   transition: 0.3s all ease-in-out;
 }
+.ellipses {
+  display: -webkit-box;
+  max-width: 400px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 /* ========= EVENTS ========= */
 .events-section {
