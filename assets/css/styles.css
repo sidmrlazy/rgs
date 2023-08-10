@@ -486,6 +486,14 @@ input::-webkit-inner-spin-button {
   width: 100%;
   height: auto;
 }
+.event-ellipses {
+  display: -webkit-box;
+  max-width: 400px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 /* ========= HOMEPAGE CONNECT ========= */
 .homepage-connect-container {
