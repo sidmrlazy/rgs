@@ -438,7 +438,7 @@ input::-webkit-inner-spin-button {
   height: auto;
 }
 .events-section-7-card h3 {
-  font-size: 20px;
+  font-size: 20px !important;
   margin: 0;
   color: #1c3746;
   text-align: left;

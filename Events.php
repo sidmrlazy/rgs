@@ -16,6 +16,7 @@ include('includes/navbar.php'); ?>
             $event_date = $row['event_date'];
 
         ?>
+            <!-- New -->
             <form action="ind-album.php" method="POST" class="events-section-7-card">
                 <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
                 <button type="submit" name="open" class="events-section-7-btn">
