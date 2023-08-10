@@ -5,11 +5,14 @@
 
         <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#aboutPharmacology" type="button" role="tab" aria-selected="true">About the
+                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab"
+                    data-bs-target="#aboutPharmacology" type="button" role="tab" aria-selected="true">About the
                     Department</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#aboutPharmacologyFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
+                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab"
+                    data-bs-target="#aboutPharmacologyFaculty" type="button" role="tab"
+                    aria-selected="false">Faculty</button>
             </li>
         </ul>
 
@@ -57,14 +60,14 @@
                         </div>
                     </div>
 
-                    <div class="department-faculty-details">
+                    <!-- <div class="department-faculty-details">
                         <img src="assets/images/faculty/faculty-14-img.png" alt="RGS College of Pharmacy Faculty image">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Farha Deeba Khan</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
                             <p class="department-faculty-qual">M.Pharm</p>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="department-faculty-details">
                         <img src="assets/images/faculty/faculty-16-img.png" alt="RGS College of Pharmacy Faculty image">
