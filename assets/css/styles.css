@@ -432,6 +432,7 @@ input::-webkit-inner-spin-button {
   padding: 10px;
   text-decoration: none;
   background-color: #fff;
+  margin-top: 30px !important;
 }
 .events-section-7-card img {
   width: 100%;
