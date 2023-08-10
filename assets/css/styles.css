@@ -364,6 +364,7 @@ input::-webkit-inner-spin-button {
   padding: 10px;
   text-decoration: none;
   background-color: #fff;
+  margin-bottom: 30px !important;
 }
 .home-section-7-card img {
   width: 100%;
