@@ -1862,6 +1862,82 @@ input::-webkit-inner-spin-button {
     padding: 20px;
   }
 
+  /* ========= EVENTS ========= */
+  .events-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .events-section-7-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .events-section-7-card {
+    max-width: 350px;
+    max-height: 550px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #fff;
+    margin-bottom: 20px !important;
+  }
+  .events-section-7-card img {
+    width: 100%;
+    height: auto;
+  }
+  .events-section-7-card h3 {
+    font-size: 20px;
+    margin: 0;
+    color: #1c3746;
+    text-align: left;
+  }
+  .events-section-7-card p {
+    font-size: 16px;
+    margin: 0;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  .events-section-7-btn {
+    background-color: #fff;
+    border: 0;
+  }
+  .album-details {
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+  .album-details h2 {
+    color: #138dd5 !important;
+    font-weight: bold !important;
+    margin: 0 !important;
+  }
+  .album-details p {
+    margin: 0;
+  }
+  .album-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-self: stretch;
+    align-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .album-img {
+    max-width: 400px;
+    max-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: 1px solid #e7e7e7;
+  }
+  .album-img img {
+    width: 100%;
+    height: auto;
+  }
+
   /* ========= FOOTER ========= */
   .footer {
     flex-direction: column;
