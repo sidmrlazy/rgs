@@ -1,6 +1,6 @@
 <!-- Top Navbar -->
 <div class="top-nav">
-    <a href="index" class="top-nav-brand">
+    <a href="index.php" class="top-nav-brand">
         <img src="assets/logo/rgs-logo.webp" alt="Top-Notch Pharmacy Education: RGS College of Pharmacy, Lucknow">
     </a>
 
@@ -34,7 +34,7 @@
 
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index">
+        <a class="navbar-brand" href="index.php">
             <img src="assets/logo/rgs-logo.webp" alt="RGS College of Pharmacy: Shaping Tomorrow's Pharmacists">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,9 +44,9 @@
             <ul class="navbar-nav mx-auto me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                     <?php if ($title === "Top College of Pharmacy in Lucknow | RGS College of Pharmacy") {  ?>
-                        <a class="nav-link active" aria-current="page" href="index">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     <?php } else { ?>
-                        <a class="nav-link" aria-current="page" href="index">Home</a>
+                        <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     <?php } ?>
                 </li>
                 <li class="nav-item">
