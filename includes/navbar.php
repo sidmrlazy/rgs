@@ -1,3 +1,4 @@
+<!-- Top Navbar -->
 <div class="top-nav">
     <a href="index" class="top-nav-brand">
         <img src="assets/logo/rgs-logo.webp" alt="Top-Notch Pharmacy Education: RGS College of Pharmacy, Lucknow">
