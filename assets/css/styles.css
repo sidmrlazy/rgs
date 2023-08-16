@@ -1438,11 +1438,11 @@ input::-webkit-inner-spin-button {
     margin-bottom: 50px;
     font-size: 30px;
   }
-  .home-section-5-row {
-    display: flex;
-    justify-content: center;
+  .home-section-5-card-row {
+    display: flex !important;
+    justify-content: space-between;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column !important;
   }
   .home-section-5-card {
     max-width: 100% !important;
