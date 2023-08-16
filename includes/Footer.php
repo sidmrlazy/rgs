@@ -1,3 +1,4 @@
+<!-- Footer -->
 <div class="footer">
     <div class="col-md-6 footer-img">
         <img src="assets/logo/white-logo-full.svg" alt="RGS Pharmacy College, Lucknow: Your Career Catalyst">
