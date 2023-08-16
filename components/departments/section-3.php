@@ -34,7 +34,7 @@
             <div class="tab-pane fade" id="aboutPharmacologyFaculty" role="tabpanel" tabindex="0">
                 <div class="department-faculty-row">
                     <div class="department-faculty-details">
-                        <img src="assets/images/dir-3.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/dir-3.png" alt="Discover RGS College: Your Path to Pharmacy Success">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Dr. Bharat Mishra</p>
                             <p class="department-faculty-designation">Professor</p>
@@ -43,7 +43,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-5-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-5-img.png"
+                            alt="Your Journey to Success Begins at RGS College">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Vaibhav Dwivedi</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
@@ -52,7 +53,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-13-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-13-img.png"
+                            alt="Excellence in Pharmacy Education: RGS College, Lucknow">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Pooja Jaiswal</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
@@ -60,17 +62,9 @@
                         </div>
                     </div>
 
-                    <!-- <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-14-img.png" alt="RGS College of Pharmacy Faculty image">
-                        <div class="department-faculty-content">
-                            <p class="department-faculty-name">Ms. Farha Deeba Khan</p>
-                            <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
-                        </div>
-                    </div> -->
-
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-16-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-16-img.png"
+                            alt="RGS College: Your Gateway to Pharmacy Career">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Shivangi Dwivedi</p>
                             <p class="department-faculty-designation">Assistant Professor</p>

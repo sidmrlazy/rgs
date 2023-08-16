@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="col-md-6 contact-section">
-        <h2>Connect with us</h2>
+        <h2>Get in Touch with the Top Pharmacy College in Lucknow</h2>
         <p>Fill out the form and we'll get back to you</p>
         <?php
         require('includes/db.php');

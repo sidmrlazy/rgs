@@ -5,7 +5,8 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="home-section-3-slider-img">
-                            <img src="assets/images/home-slider-2.png" class="d-block w-100" alt="...">
+                            <img src="assets/images/home-slider-2.png" class="d-block w-100"
+                                alt="RGS College: Shaping Successful Pharmacy Careers">
                         </div>
                     </div>
                 </div>
@@ -22,7 +23,7 @@
             </div>
         </div>
         <div class="home-section-3-heading col-md-6">
-            <h1>Welcome to</h1>
+            <h1>Welcome to the Pinnacle of Pharmacy Education in Lucknow!</h1>
             <h2>RGS College of Pharmacy</h2>
             <p>RGS College of Pharmacy opened its gates to aspiring pharma students in the year 2019. The foundations of
                 the College were laid on the belief that students anywhere and everywhere should have access to quality

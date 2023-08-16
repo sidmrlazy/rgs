@@ -5,12 +5,14 @@
 
         <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#aboutComm" type="button" role="tab" aria-selected="true">About
+                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab"
+                    data-bs-target="#aboutComm" type="button" role="tab" aria-selected="true">About
                     the
                     Department</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#aboutCommFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
+                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab"
+                    data-bs-target="#aboutCommFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
             </li>
         </ul>
 
@@ -30,7 +32,8 @@
             <div class="tab-pane fade" id="aboutCommFaculty" role="tabpanel" tabindex="0">
                 <div class="department-faculty-row">
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-17-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-17-img.png"
+                            alt="Quality Pharmacy Education at RGS College, Lucknow">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Aryan Shukla</p>
                             <p class="department-faculty-designation">Assistant Professor</p>

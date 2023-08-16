@@ -6,7 +6,7 @@
 <div class="container">
     <div class="section-3-founder">
         <div class="founder-img-container col-md-6">
-            <img src="assets/svg/sawan.svg" alt="">
+            <img src="assets/svg/sawan.svg" alt="Best Pharmacy College in Lucknow: RGS College of Pharmacy">
         </div>
         <div class="col-md-6 founder-details">
             <h3>Mr. Sawan Shukla</h3>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="founder-img-container-right col-md-6 order-0 order-xl-1">
-            <img src="assets/images/dir-2.png" alt="">
+            <img src="assets/images/dir-2.png" alt="Leading the Way: RGS Pharmacy College, Lucknow">
         </div>
     </div>
 </div>
@@ -59,7 +59,7 @@
 <div class="container-fluid">
     <div class="section-3-founder">
         <div class="founder-img-container col-md-6">
-            <img src="assets/images/dir-3.png" alt="">
+            <img src="assets/images/dir-3.png" alt="Unlocking Opportunities: RGS College of Pharmacy Education">
         </div>
         <div class="col-md-6 founder-details">
             <h3>Dr. Bharat Mishra</h3>

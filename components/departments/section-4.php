@@ -5,12 +5,15 @@
 
         <ul class="nav nav-tabs courses-section-2-navs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab" data-bs-target="#aboutPharmaceuticalChemistry" type="button" role="tab" aria-selected="true">About
+                <button class="nav-link courses-section-2-nav-link active" data-bs-toggle="tab"
+                    data-bs-target="#aboutPharmaceuticalChemistry" type="button" role="tab" aria-selected="true">About
                     the
                     Department</button>
             </li>
             <li class="nav-item" role="presentation">
-                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab" data-bs-target="#aboutPharmaceuticalChemistryFaculty" type="button" role="tab" aria-selected="false">Faculty</button>
+                <button class="nav-link courses-section-2-nav-link" data-bs-toggle="tab"
+                    data-bs-target="#aboutPharmaceuticalChemistryFaculty" type="button" role="tab"
+                    aria-selected="false">Faculty</button>
             </li>
         </ul>
 
@@ -31,7 +34,8 @@
             <div class="tab-pane fade" id="aboutPharmaceuticalChemistryFaculty" role="tabpanel" tabindex="0">
                 <div class="department-faculty-row">
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-1-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-1-img.png"
+                            alt="Elevate Your Pharmacy Career at RGS College, Lucknow">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Dr. Milan Mondal</p>
                             <p class="department-faculty-designation">Professor</p>
@@ -40,7 +44,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-4-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-4-img.png"
+                            alt="Leading the Way: RGS College of Pharmacy">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mrs. Roop Ranjan Srivastav</p>
                             <p class="department-faculty-designation">Associate Professor</p>
@@ -49,7 +54,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-2-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-2-img.png"
+                            alt="Empowering Pharmacy Aspirants: RGS College, Lucknow">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Ravikant Kushwaha</p>
                             <p class="department-faculty-designation">Associate Professor</p>
@@ -58,7 +64,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-11-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-11-img.png"
+                            alt="RGS College: Where Dreams of Pharmacy Come True">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Archita Tiwari</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
@@ -67,7 +74,8 @@
                     </div>
 
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-6-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-6-img.png"
+                            alt="Embark on Your Pharmacy Journey with RGS College">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Mamta Agrahari</p>
                             <p class="department-faculty-designation">Assistant Professor</p>

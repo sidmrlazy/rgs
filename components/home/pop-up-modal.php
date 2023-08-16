@@ -13,7 +13,7 @@
 </div>
 
 <script>
-$(window).on("load", function() {
-    $("#admissionModal").modal("show");
-});
+    $(window).on("load", function() {
+        $("#admissionModal").modal("show");
+    });
 </script>

@@ -8,11 +8,11 @@
     <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="3000">
             <img src="assets/slider-images/homepage-slider-1.svg" class="d-block w-100"
-                alt="rgs-college-homepage-slider">
+                alt="RGS College: Your Partner in Pharmacy Education">
         </div>
         <div class="carousel-item" data-bs-interval="3000">
             <img src="assets/slider-images/homepage-slider-2.svg" class="d-block w-100"
-                alt="rgs-college-homepage-slider">
+                alt="Unlock Your Pharmacy Potential at RGS College, Lucknow">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"

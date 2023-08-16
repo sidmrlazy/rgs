@@ -1,7 +1,7 @@
 <div id="history" class="container">
     <div class="history-section-row order-1">
         <div class="col-md-6 history-section-img">
-            <img src="assets/webp/history.webp" alt="">
+            <img src="assets/webp/history.webp" alt="Empowering Future Pharmacists: RGS Pharmacy College, Lucknow">
         </div>
         <div class="col-md-6 history-section-txt order-0">
             <h5>Mahadev Lal Schroff</h5>

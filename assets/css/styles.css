@@ -615,7 +615,7 @@ input::-webkit-inner-spin-button {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.who-we-are-section-header-img-container h1 {
+.who-we-are-section-header-img-container h2 {
   margin: 0;
   color: #fff !important;
   font-weight: bold;
@@ -1159,6 +1159,8 @@ input::-webkit-inner-spin-button {
 .contact-section h2 {
   color: #138dd5;
   margin: 0;
+  font-weight: bold;
+  font-size: 36px !important;
 }
 .contact-section p {
   color: #000;

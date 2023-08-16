@@ -2,7 +2,7 @@
     <div class="courses-section-1">
         <a href="courses.php#bpharm" class="col-md-6 courses-section-1-txt" id="txt-left">
             <div class="courses-section-1-img">
-                <img src="assets/webp/bpharm-icon.webp" alt="">
+                <img src="assets/webp/bpharm-icon.webp" alt="Top Pharmacy College in Lucknow offering D. Pharmacy and B. Pharmacy programs">
             </div>
             <h2>BACHELORS OF PHARMACY</h2>
             <p>The Bachelor of Pharmacy degree is popularly known as B-Pharm in India. It is a four-year program
@@ -17,7 +17,7 @@
         </a>
         <a href="courses.php#dpharm" class="col-md-6 courses-section-1-txt" id="txt-right">
             <div class="courses-section-1-img">
-                <img src="assets/webp/dpharm-icon.webp" alt="">
+                <img src="assets/webp/dpharm-icon.webp" alt="Leading Pharmacy College in Lucknow Offering D. Pharmacy and B. Pharmacy Courses">
             </div>
             <h2>DIPLOMA IN PHARMACY</h2>
             <p>Diploma in Pharmacy is a short-range course for aspirants who want to start their career in the field

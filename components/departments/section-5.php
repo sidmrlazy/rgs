@@ -34,7 +34,8 @@
             <div class="tab-pane fade" id="aboutPharmacognosyFaculty" role="tabpanel" tabindex="0">
                 <div class="department-faculty-row">
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-12-img.png" alt="RGS College of Pharmacy Faculty image">
+                        <img src="assets/images/faculty/faculty-12-img.png"
+                            alt="RGS College: Nurturing Future Pharmacy Leaders">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Anupama Rao</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
