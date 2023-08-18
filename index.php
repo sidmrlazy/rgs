@@ -1,5 +1,5 @@
 <?php
-$title = "Top Pharmacy College in Lucknow | RGS College of Pharmacy";
+$title = "Top Pharmacy College in Lucknow";
 include('includes/header.php') ?>
 <?php include('includes/navbar.php') ?>
 <?php include('components/home/section-1.php') ?>

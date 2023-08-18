@@ -6,11 +6,10 @@
                 academicians and professionals who impart knowledge to our future researchers and pharmacists. Our
                 Principal, Faculty Members and teachers come with rich and reputed experiences and are dedicated to
                 educating, guiding and moulding our students.</p>
-            <a href="who-we-are.php" class="home-connect-btn">Know More</a>
+            <a href="who-we-are.php" class="home-connect-btn">Know More about RGS College of Pharmacy</a>
         </div>
         <div class="col-md-6">
-            <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_fjv8qxqn.json" background="transparent"
-                speed="1" loop autoplay class="connect-lottie"></lottie-player>
+            <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_fjv8qxqn.json" background="transparent" speed="1" loop autoplay class="connect-lottie"></lottie-player>
         </div>
 
     </div>

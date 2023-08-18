@@ -1,17 +1,12 @@
 <div class="container">
     <div class="home-section-2-row">
         <div class="home-section-2-card">
-            <img src="assets/svg/reg-1.svg" alt="RGS College: Pioneering Pharmacy Education in Lucknow">
+            <img src="assets/svg/reg-1.webp" alt="RGS College: Pioneering Pharmacy Education in Lucknow">
             <p>Affiliated with Abdul Kalam Technical University (AKTU)</p>
         </div>
 
-        <!-- <div class="home-section-2-card">
-            <img src="assets/svg/reg-2.svg" alt="">
-            <p>Approved by Pharmacy Council of India (PCI)</p>
-        </div> -->
-
         <div class="home-section-2-card">
-            <img src="assets/svg/reg-4.svg" alt="Elevate Your Skills at RGS College of Pharmacy">
+            <img src="assets/svg/reg-4.webp" alt="Elevate Your Skills at RGS College of Pharmacy">
             <p>Approved by Board of Technical University (AKTU)</p>
         </div>
     </div>
@@ -23,13 +18,13 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="home-section-2-card ">
-                    <img src="assets/svg/reg-1.svg" alt="RGS College: Where Passion Meets Pharmacy Education">
+                    <img src="assets/svg/reg-1.webp" alt="RGS College: Where Passion Meets Pharmacy Education">
                     <p>Affiliated with Abdul Kalam Technical University (AKTU)</p>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="home-section-2-card">
-                    <img src="assets/svg/reg-4.svg" alt="Discover Excellence: RGS College of Pharmacy, Lucknow">
+                    <img src="assets/svg/reg-4.webp" alt="Discover Excellence: RGS College of Pharmacy, Lucknow">
                     <p>Approved by Board of Technical University (AKTU)</p>
                 </div>
             </div>

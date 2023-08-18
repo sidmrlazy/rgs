@@ -20,7 +20,7 @@ include('includes/navbar.php'); ?>
             <form action="ind-album.php" method="POST" class="events-section-7-card">
                 <input type="text" name="event_id" value="<?php echo $event_id ?>" hidden>
                 <button type="submit" name="open" class="events-section-7-btn">
-                    <img src="<?php echo $event_album_img ?>" alt="">
+                    <img src="<?php echo $event_album_img ?>" alt="<?php echo $event_name ?>">
                     <h3><?php echo $event_name ?></h3>
                     <p class="event-ellipses"><?php echo $event_det ?></p>
                     <p><strong><?php echo $event_date ?></strong></p>

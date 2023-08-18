@@ -20,8 +20,8 @@ include('includes/navbar.php'); ?>
                 $event_det = $row['event_det'];
             }
         ?>
-            <h2><?php echo $event_name ?></h2>
-            <p><?php echo $event_det ?></p>
+        <h2><?php echo $event_name ?></h2>
+        <p><?php echo $event_det ?></p>
     </div>
     <div class="album-grid">
         <?php
@@ -33,12 +33,12 @@ include('includes/navbar.php'); ?>
 
         ?>
 
-            <div class="album-img">
-                <img src="<?php echo $event_album_img ?>" alt="">
-            </div>
+        <div class="album-img">
+            <img src="<?php echo $event_album_img ?>" alt="<?php echo $event_album_img ?>">
+        </div>
         <?php } ?>
     </div>
 
-<?php } ?>
+    <?php } ?>
 </div>
 <?php include('includes/Footer.php') ?>
