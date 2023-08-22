@@ -38,7 +38,7 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Dr. Bharat Mishra</p>
                             <p class="department-faculty-designation">Professor</p>
-                            <p class="department-faculty-qual">PhP</p>
+                            <p class="department-faculty-qual">PhD</p>
                         </div>
                     </div>
 

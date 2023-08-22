@@ -18,6 +18,7 @@
         <ul>
             <li><a href="disclaimer.php">Disclaimer</a></li>
             <li><a href="privacy-policy.php">Privacy Policy</a></li>
+            <li><a href="sitemap.xml">Sitemap</a></li>
             <li><a href="controller/index.php">Admin Panel</a></li>
             <div class="addthis_inline_follow_toolbox"></div>
         </ul>
@@ -30,7 +31,8 @@
 </div>
 
 <!-- =========== BOOTSTRAP =========== -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
 </script>
 
 <!-- =========== IONICONS =========== -->
