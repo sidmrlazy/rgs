@@ -49,6 +49,11 @@ input::-webkit-inner-spin-button {
   align-items: center;
   text-decoration: none;
 }
+.top-nav-link-media {
+  text-decoration: none;
+  font-size: 24px !important;
+  margin: 0;
+}
 
 /* ========= MAIN NAVBAR ========= */
 .navbar {
