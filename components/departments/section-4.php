@@ -39,7 +39,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Dr. Milan Mondal</p>
                             <p class="department-faculty-designation">Professor</p>
-                            <p class="department-faculty-qual">PhD</p>
+                            <a href="assets/faculty-details/Dr. Milan Kumar Mandal_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">PhD</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -49,17 +54,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mrs. Roop Ranjan Srivastav</p>
                             <p class="department-faculty-designation">Associate Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
-                        </div>
-                    </div>
-
-                    <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-2-img.png"
-                            alt="Empowering Pharmacy Aspirants: RGS College, Lucknow">
-                        <div class="department-faculty-content">
-                            <p class="department-faculty-name">Mr. Ravikant Kushwaha</p>
-                            <p class="department-faculty-designation">Associate Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Roop Ranjan Srivastav_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -69,7 +69,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Archita Tiwari</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Archita_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -79,7 +84,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Mamta Agrahari</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Mamta Agrahari_Resume.pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
                 </div>

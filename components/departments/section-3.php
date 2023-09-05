@@ -48,7 +48,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Vaibhav Dwivedi</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Vaibhav Dwivedi_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -58,7 +63,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Pooja Jaiswal</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Pooja Jaiswal_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -68,7 +78,27 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Shivangi Dwivedi</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Shivangi Dwivedi_Resume.pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="department-faculty-details">
+                        <img src="assets/images/faculty/bannu_singh.webp"
+                            alt="RGS College: Your Gateway to Pharmacy Career">
+                        <div class="department-faculty-content">
+                            <p class="department-faculty-name">Mr. Bannu Singh</p>
+                            <p class="department-faculty-designation">Assistant Professor</p>
+                            <a href="assets/faculty-details/Bannu singh.pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
                 </div>

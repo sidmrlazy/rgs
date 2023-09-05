@@ -33,22 +33,17 @@
             <div class="tab-pane fade" id="aboutPharmaceuticsFaculty" role="tabpanel" tabindex="0">
                 <div class="department-faculty-row">
                     <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-3-img.png"
-                            alt="RGS College of Pharmacy - Excellence in Lucknow's Pharmacy Education: D. Pharmacy, B. Pharmacy">
-                        <div class="department-faculty-content">
-                            <p class="department-faculty-name">Mrs. Renu Chaudhari</p>
-                            <p class="">Associate Professor</p>
-                            <p class="">M.Pharm</p>
-                        </div>
-                    </div>
-
-                    <div class="department-faculty-details">
                         <img src="assets/images/faculty/faculty-7-img.png"
                             alt="RGS College of Pharmacy - Your Best Choice in Lucknow">
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Aditya Kumar</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Aditya_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -58,7 +53,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Vijashwari Mishra</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/vijashwari_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -68,7 +68,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Pragya Srivastava</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Pragya Srivastava_Resume.pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -78,17 +83,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Ms. Damini Mishra</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
-                        </div>
-                    </div>
-
-                    <div class="department-faculty-details">
-                        <img src="assets/images/faculty/faculty-15-img.png"
-                            alt="Quality Learning at RGS College of Pharmacy, Lucknow">
-                        <div class="department-faculty-content">
-                            <p class="department-faculty-name">Mr. Sandeep Kumar Mishra</p>
-                            <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">M.Pharm</p>
+                            <a href="assets/faculty-details/Damini Mishra_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -98,7 +98,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Rahul Singh Yadav</p>
                             <p class="department-faculty-designation">Lecturer</p>
-                            <p class="department-faculty-qual">B.Pharm</p>
+                            <a href="assets/faculty-details/RAHUL YADAV_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">B.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
 
@@ -108,7 +113,27 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Shubham Awasthi</p>
                             <p class="department-faculty-designation">Lecturer</p>
-                            <p class="department-faculty-qual">B.Pharm</p>
+                            <a href="assets/faculty-details/Shubham awasthi_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">B.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="department-faculty-details">
+                        <img src="assets/images/faculty/shrishti_mishra.webp"
+                            alt="Top Pharmacy College in Lucknow - D. Pharmacy & B. Pharmacy">
+                        <div class="department-faculty-content">
+                            <p class="department-faculty-name">Ms. Shrishti Mishra</p>
+                            <p class="department-faculty-designation">Assistant Professor </p>
+                            <a href="assets/faculty-details/shrishti mishra.pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">M.Pharm</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
                 </div>

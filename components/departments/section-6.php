@@ -37,7 +37,12 @@
                         <div class="department-faculty-content">
                             <p class="department-faculty-name">Mr. Aryan Shukla</p>
                             <p class="department-faculty-designation">Assistant Professor</p>
-                            <p class="department-faculty-qual">B.Tech</p>
+                            <a href="assets/faculty-details/Aryan Shukla_(Resume).pdf" target="_blank"
+                                class="department-faculty-inner-row">
+                                <p class="department-faculty-qual">B.Tech</p>
+                                <img src="assets/icon/pdf_icon.webp"
+                                    alt="RGS College of Pharmacy - Top college of Pharmacy">
+                            </a>
                         </div>
                     </div>
                 </div>

@@ -1080,6 +1080,30 @@ input::-webkit-inner-spin-button {
   margin: 0;
   font-size: 20px;
   font-weight: bold;
+  text-align: center;
+}
+.department-faculty-designation {
+  text-align: center;
+}
+.department-faculty-qual {
+  text-align: center;
+  color: #138dd5 !important;
+}
+.department-faculty-inner-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #138dd5 !important;
+}
+.department-faculty-inner-row a {
+  text-decoration: none;
+  text-align: center;
+}
+.department-faculty-inner-row img {
+  width: 8%;
+  height: auto;
+  margin-left: 10px;
 }
 
 /* ========= ADMISSIONS REGISTRATION FORM ========= */
@@ -1851,8 +1875,24 @@ input::-webkit-inner-spin-button {
   }
   .department-faculty-qual {
     margin: 0;
-    text-align: center;
+    text-align: center !important;
     font-size: 16px;
+  }
+  .department-faculty-inner-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #138dd5 !important;
+  }
+  .department-faculty-inner-row a {
+    text-decoration: none;
+    text-align: center;
+  }
+  .department-faculty-inner-row img {
+    width: 8% !important;
+    height: auto;
+    margin-left: 10px;
   }
 
   /* ========= ADMISSIONS REGISTRATION FORM ========= */
